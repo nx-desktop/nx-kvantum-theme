@@ -55,8 +55,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="2"
-     inkscape:cx="303.4095"
-     inkscape:cy="178.52162"
+     inkscape:cx="292.6595"
+     inkscape:cy="1503.5216"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -68,9 +68,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="2560"
-     inkscape:window-height="1014"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true">
@@ -7242,7 +7242,7 @@
          id="tspan5953"
          sodipodi:role="line">menubaritem-pressed</tspan></text>
     <g
-       id="g5963">
+       id="menuitem-tearoff-normal">
       <rect
          y="342.36218"
          x="42"
@@ -7277,7 +7277,7 @@
          x="18.186054"
          y="358.04468">menuitem-tearoff-normal</tspan></text>
     <g
-       id="g5972"
+       id="menuitem-tearoff-focused"
        transform="translate(64,0)">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -7771,7 +7771,7 @@
          y="557.04468">tab-close-disabled</tspan></text>
     <rect
        style="opacity:1;fill:#00acc1;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect4845"
+       id="tab-tear"
        width="16"
        height="16"
        x="446"
@@ -7946,7 +7946,7 @@
          x="221.343"
          y="507.04468">slider-tick-normal</tspan></text>
     <g
-       id="g4927"
+       id="splitter-grip-normal"
        transform="translate(6,-8)">
       <rect
          transform="matrix(0,-1,1,0,0,0)"
@@ -7965,7 +7965,7 @@
          style="opacity:1;fill:#c3c9d6;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g4931"
+       id="splitter-grip-focused"
        transform="translate(-46,42)">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -7985,7 +7985,7 @@
     </g>
     <g
        transform="translate(6,42)"
-       id="g4937">
+       id="splitter-grip-pressed">
       <rect
          transform="matrix(0,-1,1,0,0,0)"
          y="282"
@@ -11038,7 +11038,7 @@
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g6218">
+       id="dial-handle">
       <rect
          y="407.36218"
          x="95"
