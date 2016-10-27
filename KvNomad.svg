@@ -55,8 +55,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="2"
-     inkscape:cx="292.6595"
-     inkscape:cy="1503.5216"
+     inkscape:cx="343.71007"
+     inkscape:cy="1535.2873"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -252,7 +252,7 @@
          id="tspan4490"
          sodipodi:role="line">combobox-toggled</tspan></text>
     <g
-       id="g5838">
+       id="resize-grip-normal">
       <rect
          ry="0"
          y="-867.63782"
@@ -269,7 +269,7 @@
          style="fill:#f5f5f5;fill-opacity:1;fill-rule:evenodd;stroke:#c3c9d6;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <g
-       id="g5834">
+       id="resize-grip-focused">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect4496"
@@ -8861,7 +8861,7 @@
          id="tspan5106"
          sodipodi:role="line">common-focused</tspan></text>
     <g
-       id="g5358">
+       id="button-normal">
       <path
          inkscape:connector-curvature="0"
          id="path4261"
@@ -8876,7 +8876,7 @@
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g5337">
+       id="button-normal-topleft">
       <path
          inkscape:connector-curvature="0"
          transform="translate(0,-867.63782)"
@@ -8898,7 +8898,7 @@
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g5377">
+       id="button-normal-buttomright">
       <path
          inkscape:connector-curvature="0"
          transform="translate(0,-867.63782)"
@@ -8920,7 +8920,7 @@
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g5347">
+       id="button-normal-topright">
       <path
          inkscape:connector-curvature="0"
          transform="translate(0,-867.63782)"
@@ -8943,7 +8943,7 @@
          y="-867.63782" />
     </g>
     <g
-       id="g5367">
+       id="button-normal-bottomleft">
       <path
          inkscape:connector-curvature="0"
          transform="translate(0,-867.63782)"
@@ -8966,7 +8966,7 @@
          y="-831.63782" />
     </g>
     <g
-       id="g5342">
+       id="button-normal-top">
       <path
          inkscape:connector-curvature="0"
          transform="translate(0,-867.63782)"
@@ -8988,7 +8988,7 @@
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g5372">
+       id="button-normal-bottom">
       <path
          inkscape:connector-curvature="0"
          transform="translate(0,-867.63782)"
@@ -9010,7 +9010,7 @@
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g5362">
+       id="nutton-normal-right">
       <path
          inkscape:connector-curvature="0"
          transform="translate(0,-867.63782)"
@@ -9033,7 +9033,7 @@
          y="-68" />
     </g>
     <g
-       id="g5353">
+       id="button-normal-left">
       <path
          inkscape:connector-curvature="0"
          transform="translate(0,-867.63782)"
@@ -9056,7 +9056,7 @@
          y="-32" />
     </g>
     <g
-       id="g5403">
+       id="button-focused">
       <path
          style="opacity:1;fill:#eff1f3;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          d="m 80,-859.63782 0,28 28,0 0,-28 -28,0 z"
@@ -9071,7 +9071,7 @@
          y="-859.63782" />
     </g>
     <g
-       id="g5383">
+       id="button-focused-topleft">
       <path
          inkscape:connector-curvature="0"
          style="opacity:1;fill:#00acc1;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -9091,7 +9091,7 @@
          y="-867.63782" />
     </g>
     <g
-       id="g5422">
+       id="button-focused-bottomright">
       <path
          inkscape:connector-curvature="0"
          style="opacity:1;fill:#00acc1;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -9111,7 +9111,7 @@
          y="-831.63782" />
     </g>
     <g
-       id="g5393">
+       id="button-focused-topright">
       <path
          inkscape:connector-curvature="0"
          style="opacity:1;fill:#00acc1;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -9132,7 +9132,7 @@
          transform="scale(-1,1)" />
     </g>
     <g
-       id="g5412">
+       id="button-focused-bottomleft">
       <path
          inkscape:connector-curvature="0"
          style="opacity:1;fill:#00acc1;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -9153,7 +9153,7 @@
          transform="scale(-1,1)" />
     </g>
     <g
-       id="g5388">
+       id="button-focused-top">
       <path
          inkscape:connector-curvature="0"
          style="opacity:1;fill:#00acc1;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -9173,7 +9173,7 @@
          y="-867.63782" />
     </g>
     <g
-       id="g5417">
+       id="button-focused-bottom">
       <path
          inkscape:connector-curvature="0"
          style="opacity:1;fill:#00acc1;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -9193,7 +9193,7 @@
          y="-831.63782" />
     </g>
     <g
-       id="g5407">
+       id="button-focused-right">
       <path
          inkscape:connector-curvature="0"
          style="opacity:1;fill:#00acc1;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -9214,7 +9214,7 @@
          transform="matrix(0,1,-1,0,0,0)" />
     </g>
     <g
-       id="g5398">
+       id="button-focused-left">
       <path
          inkscape:connector-curvature="0"
          style="opacity:1;fill:#00acc1;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -9235,7 +9235,7 @@
          transform="matrix(0,1,-1,0,0,0)" />
     </g>
     <g
-       id="g5449">
+       id="button-pressed">
       <path
          inkscape:connector-curvature="0"
          id="path4358"
@@ -9250,7 +9250,7 @@
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g5429">
+       id="button-pressed-topleft">
       <path
          id="path4348"
          d="m 122,-867.63782 c -1.10799,0 -2,0.89201 -2,2 l 0,6 8,0 0,-8 -6,0 z"
@@ -9270,7 +9270,7 @@
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g5468">
+       id="button-pressed-bottomright">
       <path
          id="path4336"
          d="m 164,-831.63782 -8,0 0,8 6,0 c 1.10799,0 2,-0.89201 2,-2 l 0,-6 z"
@@ -9290,7 +9290,7 @@
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g5439">
+       id="button-pressed-topright">
       <path
          id="path4334"
          d="m 156,-867.63782 0,8 8,0 0,-6 c 0,-1.10799 -0.89201,-2 -2,-2 l -6,0 z"
@@ -9311,7 +9311,7 @@
          y="-867.63782" />
     </g>
     <g
-       id="g5458">
+       id="button-pressed-bottomleft">
       <path
          id="path4338"
          d="m 128,-823.63782 0,-8 -8,0 0,6 c 0,1.10799 0.89201,2 2,2 l 6,0 z"
@@ -9332,7 +9332,7 @@
          y="-831.63782" />
     </g>
     <g
-       id="g5434">
+       id="button-pressed-top">
       <path
          id="path4346"
          d="m 128,-867.63782 0,8 28,0 0,-8 -28,0 z"
@@ -9352,7 +9352,7 @@
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g5463">
+       id="button-pressed-bottom">
       <path
          id="path4344"
          d="m 156,-831.63782 -28,0 0,8 28,0 0,-8 z"
@@ -9372,7 +9372,7 @@
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g5453">
+       id="button-pressed-right">
       <path
          id="path4340"
          d="m 156,-859.63782 0,28 8,0 0,-28 -8,0 z"
@@ -9393,7 +9393,7 @@
          y="-164" />
     </g>
     <g
-       id="g5444">
+       id="button-pressed-left">
       <path
          id="path4342"
          d="m 128,-831.63782 0,-28 -8,0 0,28 8,0 z"
@@ -9414,7 +9414,7 @@
          y="-128" />
     </g>
     <g
-       id="g5493">
+       id="combobox-normal">
       <path
          style="opacity:1;fill:#eff1f3;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          d="m 192,-859.63782 0,28 28,0 0,-28 -28,0 z"
@@ -9429,7 +9429,7 @@
          y="-859.63782" />
     </g>
     <g
-       id="g5473">
+       id="combobox-normal-topleft">
       <path
          inkscape:connector-curvature="0"
          style="opacity:1;fill:#c3c9d6;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -9449,7 +9449,7 @@
          y="-867.63782" />
     </g>
     <g
-       id="g5513">
+       id="combobox-normal-bottomright">
       <path
          inkscape:connector-curvature="0"
          style="opacity:1;fill:#c3c9d6;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -9469,7 +9469,7 @@
          y="-831.63782" />
     </g>
     <g
-       id="g5483">
+       id="combobox-normal-topright">
       <path
          inkscape:connector-curvature="0"
          style="opacity:1;fill:#c3c9d6;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -9490,7 +9490,7 @@
          transform="scale(-1,1)" />
     </g>
     <g
-       id="g5502">
+       id="combobox-normal-bottomleft">
       <path
          inkscape:connector-curvature="0"
          style="opacity:1;fill:#c3c9d6;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -9511,7 +9511,7 @@
          transform="scale(-1,1)" />
     </g>
     <g
-       id="g5478">
+       id="combobox-normal-top">
       <path
          inkscape:connector-curvature="0"
          style="opacity:1;fill:#c3c9d6;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -9531,7 +9531,7 @@
          y="-867.63782" />
     </g>
     <g
-       id="g5507">
+       id="combobox-normal-bottom">
       <path
          inkscape:connector-curvature="0"
          style="opacity:1;fill:#c3c9d6;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -9551,7 +9551,7 @@
          y="-831.63782" />
     </g>
     <g
-       id="g5497">
+       id="combobox-normal-right">
       <path
          inkscape:connector-curvature="0"
          style="opacity:1;fill:#c3c9d6;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -9572,7 +9572,7 @@
          transform="matrix(0,1,-1,0,0,0)" />
     </g>
     <g
-       id="g5488">
+       id="combobox-normal-left">
       <path
          inkscape:connector-curvature="0"
          style="opacity:1;fill:#c3c9d6;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -9593,7 +9593,7 @@
          transform="matrix(0,1,-1,0,0,0)" />
     </g>
     <g
-       id="g5538">
+       id="combobox-focused">
       <path
          inkscape:connector-curvature="0"
          id="path4440"
@@ -9608,7 +9608,7 @@
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g5518">
+       id="combobox-focused-topleft">
       <path
          id="path4430"
          d="m 234,-867.63782 c -1.10799,0 -2,0.89201 -2,2 l 0,6 8,0 0,-8 -6,0 z"
@@ -9628,7 +9628,7 @@
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g5557">
+       id="combobox-focused-bottomright">
       <path
          id="path4418"
          d="m 276,-831.63782 -8,0 0,8 6,0 c 1.10799,0 2,-0.89201 2,-2 l 0,-6 z"
@@ -9648,7 +9648,7 @@
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g5528">
+       id="combobox-focused-topright">
       <path
          id="path4416"
          d="m 268,-867.63782 0,8 8,0 0,-6 c 0,-1.10799 -0.89201,-2 -2,-2 l -6,0 z"
@@ -9669,7 +9669,7 @@
          y="-867.63782" />
     </g>
     <g
-       id="g5547">
+       id="combobox-focused-bottomleft">
       <path
          id="path4420"
          d="m 240,-823.63782 0,-8 -8,0 0,6 c 0,1.10799 0.89201,2 2,2 l 6,0 z"
@@ -9690,7 +9690,7 @@
          y="-831.63782" />
     </g>
     <g
-       id="g5523">
+       id="combobox-focused-top">
       <path
          id="path4428"
          d="m 240,-867.63782 0,8 28,0 0,-8 -28,0 z"
@@ -9710,7 +9710,7 @@
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g5552">
+       id="combobox-focused-bottom">
       <path
          id="path4426"
          d="m 268,-831.63782 -28,0 0,8 28,0 0,-8 z"
@@ -9730,7 +9730,7 @@
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g5542">
+       id="combobox-focused-right">
       <path
          id="path4422"
          d="m 268,-859.63782 0,28 8,0 0,-28 -8,0 z"
@@ -9751,7 +9751,7 @@
          y="-276" />
     </g>
     <g
-       id="g5533">
+       id="combobox-focused-left">
       <path
          id="path4424"
          d="m 240,-831.63782 0,-28 -8,0 0,28 8,0 z"
@@ -9772,7 +9772,7 @@
          y="-240" />
     </g>
     <g
-       id="g5582">
+       id="combobox-toggled">
       <path
          style="opacity:1;fill:#26c6da;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          d="m 288,-859.63782 0,28 28,0 0,-28 -28,0 z"
@@ -9787,7 +9787,7 @@
          y="-859.63782" />
     </g>
     <g
-       id="g5562">
+       id="combobox-toggled-topleft">
       <path
          inkscape:connector-curvature="0"
          style="opacity:1;fill:#00acc1;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -9807,7 +9807,7 @@
          y="-867.63782" />
     </g>
     <g
-       id="g5602">
+       id="combobox-toggled-bottomright">
       <path
          inkscape:connector-curvature="0"
          style="opacity:1;fill:#00acc1;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -9848,7 +9848,7 @@
          transform="scale(-1,1)" />
     </g>
     <g
-       id="g5592">
+       id="combobox-toggled-bottomleft">
       <path
          inkscape:connector-curvature="0"
          style="opacity:1;fill:#00acc1;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -9869,7 +9869,7 @@
          transform="scale(-1,1)" />
     </g>
     <g
-       id="g5567">
+       id="combobox-toggled-top">
       <path
          inkscape:connector-curvature="0"
          style="opacity:1;fill:#00acc1;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -9889,7 +9889,7 @@
          y="-867.63782" />
     </g>
     <g
-       id="g5597">
+       id="combobox-toggled-bottom">
       <path
          inkscape:connector-curvature="0"
          style="opacity:1;fill:#00acc1;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -9909,7 +9909,7 @@
          y="-831.63782" />
     </g>
     <g
-       id="g5586">
+       id="combobox-toggled-right">
       <path
          inkscape:connector-curvature="0"
          style="opacity:1;fill:#00acc1;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -9930,7 +9930,7 @@
          transform="matrix(0,1,-1,0,0,0)" />
     </g>
     <g
-       id="g5577">
+       id="combobox-toggled-left">
       <path
          inkscape:connector-curvature="0"
          style="opacity:1;fill:#00acc1;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
