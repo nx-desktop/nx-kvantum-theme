@@ -54,12 +54,12 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="500.85174"
-     inkscape:cy="1358.1054"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="245.03858"
+     inkscape:cy="1009.1136"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="true"
+     showgrid="false"
      units="mm"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -68,9 +68,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="2560"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-height="1014"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true">
@@ -93,7 +93,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1086,7 +1086,7 @@
          id="tspan3567"
          sodipodi:role="line">menu-checkbox-tristate-focused</tspan></text>
     <g
-       id="g3577"
+       id="arrow-up-normal"
        transform="translate(20,0)">
       <rect
          ry="0"
@@ -1116,7 +1116,7 @@
          sodipodi:role="line">arrow-up-normal</tspan></text>
     <g
        transform="matrix(1,0,0,-1,20,-1413.2756)"
-       id="g3586">
+       id="arrow-down-normal">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect3588"
@@ -1145,7 +1145,7 @@
          y="-667.95532">arrow-down-normal</tspan></text>
     <g
        transform="translate(72,0)"
-       id="g3596">
+       id="arrow-up-focused">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect3598"
@@ -1173,7 +1173,7 @@
          x="503.44305"
          y="-707.95532">arrow-up-focused</tspan></text>
     <g
-       id="g3606"
+       id="arrow-down-focused"
        transform="matrix(1,0,0,-1,72,-1413.2756)">
       <rect
          ry="0"
@@ -1203,7 +1203,7 @@
          sodipodi:role="line">arrow-down-focused</tspan></text>
     <g
        transform="translate(20,160)"
-       id="g3616">
+       id="arrow-up-disabled">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect3618"
@@ -1231,7 +1231,7 @@
          x="451.04266"
          y="-547.95532">arrow-up-disabled</tspan></text>
     <g
-       id="g3626"
+       id="arrow-down-disabled"
        transform="matrix(1,0,0,-1,20,-1253.2756)">
       <rect
          ry="0"
@@ -1260,7 +1260,7 @@
          id="tspan3634"
          sodipodi:role="line">arrow-down-disabled</tspan></text>
     <g
-       id="g4386"
+       id="carrow-normal"
        transform="matrix(1,0,0,-1,20,-1133.2756)">
       <rect
          ry="0"
@@ -1290,7 +1290,7 @@
          sodipodi:role="line">carrow-normal</tspan></text>
     <g
        transform="matrix(1,0,0,-1,60,-1133.2756)"
-       id="g4413">
+       id="carrow-focused">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect4415"
@@ -1318,7 +1318,7 @@
          x="493.94861"
          y="-387.95532">carrow-focused</tspan></text>
     <g
-       id="g4451"
+       id="carrow-pressed"
        transform="matrix(1,0,0,-1,100,-1133.2756)">
       <rect
          ry="0"
@@ -1348,7 +1348,7 @@
          sodipodi:role="line">carrow-pressed</tspan></text>
     <g
        transform="matrix(1,0,0,-1,20,-1093.2756)"
-       id="g4475">
+       id="carrow-disabled">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect4477"
@@ -1367,16 +1367,16 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:125%;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:0px;fill:#eff1f3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="454.49548"
+       x="453.54822"
        y="-347.95532"
        id="text4481"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4483"
-         x="454.49548"
+         x="453.54822"
          y="-347.95532">carrow-disabled</tspan></text>
     <g
-       id="g4495"
+       id="arrow-right-normal"
        transform="matrix(0,-1,-1,0,-255.63783,-195.63782)">
       <rect
          ry="0"
@@ -1406,7 +1406,7 @@
          sodipodi:role="line">arrow-right-normal</tspan></text>
     <g
        transform="matrix(0,-1,1,0,1197.6378,-155.63778)"
-       id="g4505">
+       id="arrow-left-normal">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect4507"
@@ -1435,7 +1435,7 @@
          y="-587.95532">arrow-left-normal</tspan></text>
     <g
        transform="matrix(0,-1,-1,0,-203.63783,-195.63782)"
-       id="g4516">
+       id="arrow-right-focused">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect4518"
@@ -1463,7 +1463,7 @@
          x="501.15298"
          y="-627.95532">arrow-right-focused</tspan></text>
     <g
-       id="g4526"
+       id="arrow-left-focused"
        transform="matrix(0,-1,1,0,1249.6378,-155.63778)">
       <rect
          ry="0"
@@ -1492,7 +1492,7 @@
          id="tspan4534"
          sodipodi:role="line">arrow-left-focused</tspan></text>
     <g
-       id="g4536"
+       id="arrow-right-disabled"
        transform="matrix(0,-1,-1,0,-203.63783,-115.63782)">
       <rect
          ry="0"
@@ -1522,7 +1522,7 @@
          sodipodi:role="line">arrow-right-disabled</tspan></text>
     <g
        transform="matrix(0,-1,1,0,1249.6378,-75.637783)"
-       id="g4546">
+       id="arrow-left-disabled">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect4548"
@@ -1550,7 +1550,7 @@
          x="502.23212"
          y="-507.95532">arrow-left-disabled</tspan></text>
     <g
-       id="g4578">
+       id="spin-plus-normal">
       <rect
          ry="0"
          y="-603.63782"
@@ -1578,7 +1578,7 @@
          id="tspan4584"
          sodipodi:role="line">spin-plus-normal</tspan></text>
     <g
-       id="g4586"
+       id="spin-plus-focused"
        transform="translate(40,0)">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -1607,7 +1607,7 @@
          x="46.650509"
          y="-575.95532">spin-plus-focused</tspan></text>
     <g
-       id="g4596"
+       id="spin-up-normal"
        transform="translate(0,40)">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -1637,7 +1637,7 @@
          y="-535.95532">spin-up-normal</tspan></text>
     <g
        transform="translate(40,40)"
-       id="g4606">
+       id="spin-up-focused">
       <rect
          ry="0"
          y="-603.63782"
@@ -1666,7 +1666,7 @@
          sodipodi:role="line">spin-up-focused</tspan></text>
     <g
        transform="translate(82,0)"
-       id="g4616">
+       id="spin-plus-disabled">
       <rect
          ry="0"
          y="-603.63782"
@@ -1694,7 +1694,7 @@
          id="tspan4624"
          sodipodi:role="line">spin-plus-disabled</tspan></text>
     <g
-       id="g4626"
+       id="spin-up-disabled"
        transform="translate(82,40)">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -1723,7 +1723,7 @@
          x="89.924919"
          y="-535.95532">spin-up-disabled</tspan></text>
     <g
-       id="g4636"
+       id="tree-plus-normal"
        transform="matrix(0,-1,-1,0,-505.63783,-141.63782)">
       <rect
          ry="0"
@@ -1753,7 +1753,7 @@
          sodipodi:role="line">tree-plus-normal</tspan></text>
     <g
        transform="matrix(0,-1,-1,0,-459.63783,-141.63782)"
-       id="g4646">
+       id="tree-plus-focused">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect4648"
@@ -1782,7 +1782,7 @@
          y="-573.95532">tree-plus-focused</tspan></text>
     <g
        transform="matrix(1,0,0,-1,-230.00001,-1279.2756)"
-       id="g4656">
+       id="tree-minus-normal">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect4658"
@@ -1810,7 +1810,7 @@
          x="200.74506"
          y="-533.95532">tree-minus-normal</tspan></text>
     <g
-       id="g4666"
+       id="tree-minus-focused"
        transform="matrix(1,0,0,-1,-184.00001,-1279.2756)">
       <rect
          ry="0"
@@ -1839,7 +1839,7 @@
          id="tspan4674"
          sodipodi:role="line">tree-minus-focused</tspan></text>
     <g
-       id="g4676"
+       id="tree-plus-disabled"
        transform="matrix(0,-1,-1,0,-411.63783,-141.63782)">
       <rect
          ry="0"
@@ -1869,7 +1869,7 @@
          sodipodi:role="line">tree-plus-disabled</tspan></text>
     <g
        transform="matrix(1,0,0,-1,-136.00001,-1279.2756)"
-       id="g4686">
+       id="tree-minus-disabled">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect4688"
@@ -1902,7 +1902,7 @@
        y="0"
        height="100%"
        xlink:href="#arrow-up-disabled"
-       id="tree-minus-disabled"
+       id="use5292"
        transform="matrix(1,0,0,-1,146.69298,-260.6378)" />
     <use
        width="100%"
@@ -1914,7 +1914,7 @@
        transform="matrix(1,0,0,-1,146.69298,-260.6378)" />
     <g
        transform="matrix(1,0,0,-1,-84.00001,-1319.2756)"
-       id="g4708">
+       id="g5290">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect4710"
@@ -2018,7 +2018,7 @@
          id="tspan4744"
          sodipodi:role="line">menu-checkbox-focused</tspan></text>
     <g
-       id="g4746"
+       id="arrow-up-pressed"
        transform="translate(20,240)">
       <rect
          ry="0"
@@ -2048,7 +2048,7 @@
          sodipodi:role="line">arrow-up-pressed</tspan></text>
     <g
        transform="matrix(1,0,0,-1,20,-1173.2756)"
-       id="g4756">
+       id="arrow-down-pressed">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect4758"
@@ -2077,7 +2077,7 @@
          y="-427.95532">arrow-down-pressed</tspan></text>
     <g
        transform="matrix(0,-1,-1,0,-203.63783,-35.63782)"
-       id="g4766">
+       id="arrow-right-pressed">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect4768"
@@ -2105,7 +2105,7 @@
          x="501.32388"
          y="-467.95532">arrow-right-pressed</tspan></text>
     <g
-       id="g4776"
+       id="arrow-left-pressed"
        transform="matrix(0,-1,1,0,1249.6378,4.362217)">
       <rect
          ry="0"
@@ -2155,15 +2155,15 @@
        sodipodi:linespacing="125%"
        id="text4792"
        y="-347.95532"
-       x="502.49548"
+       x="494.3783"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:125%;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:0px;fill:#eff1f3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          y="-347.95532"
-         x="502.49548"
+         x="494.3783"
          id="tspan4794"
          sodipodi:role="line">carrow-toggled</tspan></text>
     <g
-       id="g4796"
+       id="spin-plus-pressed"
        transform="translate(124,0)">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -2193,7 +2193,7 @@
          y="-575.95532">spin-plus-pressed</tspan></text>
     <g
        transform="translate(124,40)"
-       id="g4806">
+       id="spin-up-pressed">
       <rect
          ry="0"
          y="-603.63782"
@@ -2221,7 +2221,7 @@
          id="tspan4814"
          sodipodi:role="line">spin-up-pressed</tspan></text>
     <g
-       id="g4836"
+       id="spin-minus-normal"
        transform="translate(0,80)">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -2241,94 +2241,94 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:125%;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:0px;fill:#eff1f3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="7.6877346"
+       x="5.6271877"
        y="-495.95532"
        id="text4842"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4844"
-         x="7.6877346"
-         y="-495.95532">spin-plus-normal</tspan></text>
+         x="5.6271877"
+         y="-495.95532">spin-minus-normal</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4852"
        y="-495.95532"
-       x="46.650509"
+       x="48.589962"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:125%;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:0px;fill:#eff1f3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          y="-495.95532"
-         x="46.650509"
+         x="48.589962"
          id="tspan4854"
-         sodipodi:role="line">spin-plus-focused</tspan></text>
+         sodipodi:role="line">spin-minus-focused</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4862"
        y="-455.95532"
-       x="9.3625393"
+       x="5.9982815"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:125%;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:0px;fill:#eff1f3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          y="-455.95532"
-         x="9.3625393"
+         x="5.9982815"
          id="tspan4864"
-         sodipodi:role="line">spin-up-normal</tspan></text>
+         sodipodi:role="line">spin-down-normal</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:125%;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:0px;fill:#eff1f3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="48.325314"
+       x="48.961056"
        y="-455.95532"
        id="text4872"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4874"
-         x="48.325314"
-         y="-455.95532">spin-up-focused</tspan></text>
+         x="48.961056"
+         y="-455.95532">spin-down-focused</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:125%;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:0px;fill:#eff1f3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="88.250114"
+       x="94.189568"
        y="-495.95532"
        id="text4882"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4884"
-         x="88.250114"
-         y="-495.95532">spin-plus-disabled</tspan></text>
+         x="94.189568"
+         y="-495.95532">spin-minus-disabled</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4892"
        y="-455.95532"
-       x="89.924919"
+       x="94.560661"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:125%;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:0px;fill:#eff1f3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          y="-455.95532"
-         x="89.924919"
+         x="94.560661"
          id="tspan4894"
-         sodipodi:role="line">spin-up-disabled</tspan></text>
+         sodipodi:role="line">spin-down-disabled</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4902"
        y="-495.95532"
-       x="130.82141"
+       x="140.76086"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:125%;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:0px;fill:#eff1f3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          y="-495.95532"
-         x="130.82141"
+         x="140.76086"
          id="tspan4904"
-         sodipodi:role="line">spin-plus-pressed</tspan></text>
+         sodipodi:role="line">spin-minus-pressed</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:125%;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:0px;fill:#eff1f3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="132.49622"
+       x="141.13196"
        y="-455.95532"
        id="text4912"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4914"
-         x="132.49622"
-         y="-455.95532">spin-up-pressed</tspan></text>
+         x="141.13196"
+         y="-455.95532">spin-down-pressed</tspan></text>
     <g
        transform="translate(0,120)"
-       id="g4922">
+       id="spin-down-normal">
       <rect
          ry="0"
          y="-603.63782"
@@ -2345,8 +2345,8 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(40,80)"
-       id="g4928">
+       transform="translate(44,80)"
+       id="spin-minus-focused">
       <rect
          ry="0"
          y="-603.63782"
@@ -2363,8 +2363,8 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       id="g4934"
-       transform="translate(40,120)">
+       id="spin-down-focused"
+       transform="translate(44,120)">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect4936"
@@ -2381,8 +2381,8 @@
          id="path4938" />
     </g>
     <g
-       id="g4940"
-       transform="translate(80,80)">
+       id="spin-minus-disabled"
+       transform="translate(90,80)">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect4942"
@@ -2399,8 +2399,8 @@
          id="path4944" />
     </g>
     <g
-       transform="translate(80,120)"
-       id="g4946">
+       transform="translate(90,120)"
+       id="spin-down-disabled">
       <rect
          ry="0"
          y="-603.63782"
@@ -2417,8 +2417,8 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(120,80)"
-       id="g4952">
+       transform="translate(136,80)"
+       id="spin-minus-pressed">
       <rect
          ry="0"
          y="-603.63782"
@@ -2435,8 +2435,8 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       id="g4958"
-       transform="translate(120,120)">
+       id="spin-down-pressed"
+       transform="translate(136,120)">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect4960"
@@ -2453,7 +2453,7 @@
          id="path4962" />
     </g>
     <g
-       id="g4964"
+       id="g5294"
        transform="matrix(1,0,0,-1,-232.00001,-1219.2756)">
       <rect
          ry="0"
@@ -2483,7 +2483,7 @@
          sodipodi:role="line">flat-arrow-down-normal</tspan></text>
     <g
        transform="translate(-232.00001,274.00003)"
-       id="g4994">
+       id="flat-arrow-down-normal">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect4996"
@@ -2512,7 +2512,7 @@
          y="-433.95532">flat-arrow-down-normal</tspan></text>
     <g
        transform="matrix(1,0,0,-1,-172.00001,-1219.2756)"
-       id="g5004">
+       id="flat-arrow-down-focused">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect5006"
@@ -2540,7 +2540,7 @@
          x="251.57242"
          y="-473.95532">flat-arrow-down-focused</tspan></text>
     <g
-       id="g5014"
+       id="flat-arrow-up-focused"
        transform="translate(-172.00001,274.00003)">
       <rect
          ry="0"
@@ -2569,7 +2569,7 @@
          id="tspan5022"
          sodipodi:role="line">flat-arrow-up-focused</tspan></text>
     <g
-       id="g5024"
+       id="flat-arrow-down-pressed"
        transform="matrix(1,0,0,-1,-112.00001,-1219.2756)">
       <rect
          ry="0"
@@ -2599,7 +2599,7 @@
          sodipodi:role="line">flat-arrow-down-pressed</tspan></text>
     <g
        transform="translate(-112.00001,274.00003)"
-       id="g5034">
+       id="flat-arrow-up-pressed">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect5036"
@@ -2628,7 +2628,7 @@
          y="-433.95532">flat-arrow-up-pressed</tspan></text>
     <g
        transform="matrix(1,0,0,-1,-52.00001,-1219.2756)"
-       id="g5044">
+       id="flat-arrow-down-disabled">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect5046"
@@ -2656,7 +2656,7 @@
          x="371.17203"
          y="-473.95532">flat-arrow-down-disabled</tspan></text>
     <g
-       id="g5054"
+       id="flat-arrow-up-disabled"
        transform="translate(-52.00001,274.00003)">
       <rect
          ry="0"
@@ -2686,7 +2686,7 @@
          sodipodi:role="line">flat-arrow-up-disabled</tspan></text>
     <g
        transform="matrix(0,-1,-1,0,-507.63783,38.362223)"
-       id="g5064">
+       id="flat-arrow-right-normal">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect5066"
@@ -2714,7 +2714,7 @@
          x="193.68385"
          y="-393.95532">flat-arrow-right-normal</tspan></text>
     <g
-       id="g5074"
+       id="flat-arrow-left-normal"
        transform="matrix(0,-1,1,0,945.63781,78.362213)">
       <rect
          ry="0"
@@ -2743,7 +2743,7 @@
          id="tspan5082"
          sodipodi:role="line">flat-arrow-left-normal</tspan></text>
     <g
-       id="g5084"
+       id="flat-arrow-right-focused"
        transform="matrix(0,-1,-1,0,-447.63784,38.362223)">
       <rect
          ry="0"
@@ -2773,7 +2773,7 @@
          sodipodi:role="line">flat-arrow-right-focused</tspan></text>
     <g
        transform="matrix(0,-1,1,0,1005.6378,78.362213)"
-       id="g5094">
+       id="flat-arrow-left-focused">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect5096"
@@ -2802,7 +2802,7 @@
          y="-353.95532">flat-arrow-left-focused</tspan></text>
     <g
        transform="matrix(0,-1,-1,0,-387.63784,38.362223)"
-       id="g5104">
+       id="flat-arrow-right-pressed">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect5106"
@@ -2830,7 +2830,7 @@
          x="312.8175"
          y="-393.95532">flat-arrow-right-pressed</tspan></text>
     <g
-       id="g5114"
+       id="flat-arrow-left-pressed"
        transform="matrix(0,-1,1,0,1065.6378,78.362213)">
       <rect
          ry="0"
@@ -2859,7 +2859,7 @@
          id="tspan5122"
          sodipodi:role="line">flat-arrow-left-pressed</tspan></text>
     <g
-       id="g5124"
+       id="flat-arrow-right-disabled"
        transform="matrix(0,-1,-1,0,-327.63784,38.362223)">
       <rect
          ry="0"
@@ -2889,7 +2889,7 @@
          sodipodi:role="line">flat-arrow-right-disabled</tspan></text>
     <g
        transform="matrix(0,-1,1,0,1125.6378,78.362213)"
-       id="g5134">
+       id="flat-arrow-left-disabled">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect5136"
