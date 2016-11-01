@@ -54,9 +54,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6568542"
-     inkscape:cx="376.82665"
-     inkscape:cy="770.96347"
+     inkscape:zoom="1"
+     inkscape:cx="441.68663"
+     inkscape:cy="1144.6131"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -105,7 +105,7 @@
     <path
        style="opacity:0.5;fill:#26c6da;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 70,516.36218 -30,0 0,30 30,0 0,-30 z"
-       id="path5017"
+       id="itemview-focused"
        inkscape:connector-curvature="0" />
     <text
        sodipodi:linespacing="125%"
@@ -119,7 +119,7 @@
          id="tspan4837"
          sodipodi:role="line">dial-handle</tspan></text>
     <g
-       id="g5424">
+       id="menu-shadow-topright">
       <image
          width="38"
          height="38"
@@ -137,7 +137,7 @@
          y="-5.6378198" />
     </g>
     <g
-       id="g4650"
+       id="slider-normal"
        transform="translate(-58,0)">
       <rect
          style="opacity:1;fill:none;fill-opacity:0.55;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -1889,22 +1889,6 @@
          id="tspan4694"
          x="293.30743"
          y="-533.95532">tree-minus-disabled</tspan></text>
-    <use
-       width="100%"
-       x="0"
-       y="0"
-       height="100%"
-       xlink:href="#arrow-up-disabled"
-       id="use5292"
-       transform="matrix(1,0,0,-1,146.69298,-260.6378)" />
-    <use
-       width="100%"
-       x="0"
-       y="0"
-       height="100%"
-       xlink:href="#arrow-up-disabled"
-       id="tree-minus-disabled-7"
-       transform="matrix(1,0,0,-1,146.69298,-260.6378)" />
     <g
        transform="matrix(1,0,0,-1,-84.00001,-1319.2756)"
        id="g5290">
@@ -5403,7 +5387,7 @@
          id="tspan6034"
          sodipodi:role="line">expand-scrollbarslider-pressed</tspan></text>
     <g
-       id="g4655"
+       id="slider-normal-bottomleft"
        transform="translate(-58,0)">
       <rect
          style="opacity:1;fill:none;fill-opacity:0.55;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -5426,7 +5410,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       id="g4640"
+       id="slider-normal-left"
        transform="translate(-58,0)">
       <rect
          style="opacity:1;fill:none;fill-opacity:0.55;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -5449,7 +5433,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       id="g4602"
+       id="slider-normal-topleft"
        transform="translate(-58,0)">
       <rect
          style="opacity:1;fill:none;fill-opacity:0.55;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -5472,7 +5456,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       id="g4660"
+       id="slider-normal-bottom"
        transform="translate(-58,0)">
       <rect
          style="opacity:1;fill:none;fill-opacity:0.55;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -5495,7 +5479,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       id="g4630"
+       id="slider-normal-top"
        transform="translate(-58,0)">
       <rect
          style="opacity:1;fill:none;fill-opacity:0.55;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -5518,7 +5502,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       id="g4665"
+       id="slider-normal-bottomright"
        transform="translate(-58,0)">
       <rect
          style="opacity:1;fill:none;fill-opacity:0.55;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -5541,7 +5525,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       id="g4645"
+       id="slider-normal-right"
        transform="translate(-58,0)">
       <rect
          style="opacity:1;fill:none;fill-opacity:0.55;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -5564,7 +5548,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       id="g4635"
+       id="slider-normal-topright"
        transform="translate(-58,0)">
       <rect
          style="opacity:1;fill:none;fill-opacity:0.55;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -5587,7 +5571,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       id="g4670"
+       id="slider-toggled"
        transform="translate(-22,0)">
       <rect
          y="-117.63782"
@@ -5604,7 +5588,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       id="g4677"
+       id="slider-toggled-bottomleft"
        transform="translate(-22,0)">
       <rect
          y="-89.637817"
@@ -5627,7 +5611,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       id="g4685"
+       id="slider-toggled-left"
        transform="translate(-22,0)">
       <rect
          y="-117.63782"
@@ -5650,7 +5634,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       id="g4693"
+       id="slider-toggled-topleft"
        transform="translate(-22,0)">
       <rect
          y="-123.63782"
@@ -5673,7 +5657,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       id="g4701"
+       id="slider-toggled-bottom"
        transform="translate(-22,0)">
       <rect
          y="-89.637817"
@@ -5696,7 +5680,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       id="g4709"
+       id="slider-toggled-top"
        transform="translate(-22,0)">
       <rect
          y="-123.63782"
@@ -5719,7 +5703,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       id="g4717"
+       id="slider-toggled-bottomright"
        transform="translate(-22,0)">
       <rect
          y="-89.637817"
@@ -5742,7 +5726,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       id="g4725"
+       id="slider-toggled-right"
        transform="translate(-22,0)">
       <rect
          y="-117.63782"
@@ -5765,7 +5749,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       id="g4733"
+       id="slider-toggled-topright"
        transform="translate(-22,0)">
       <rect
          y="-123.63782"
@@ -5787,34 +5771,40 @@
          transform="translate(0,-867.63782)"
          inkscape:connector-curvature="0" />
     </g>
-    <ellipse
-       cy="-96.637848"
-       cx="349.00046"
-       id="circle5833"
-       style="display:inline;opacity:1;fill:#c3c9d6;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       rx="10"
-       ry="10.000001" />
-    <ellipse
-       style="display:inline;opacity:1;fill:#eff1f3;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle5835"
-       cx="349.00046"
-       cy="-96.637848"
-       rx="9"
-       ry="9.000001" />
-    <ellipse
-       style="display:inline;opacity:1;fill:#00acc1;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle5869"
-       cx="400.00009"
-       cy="-96.637787"
-       rx="10"
-       ry="10.000001" />
-    <ellipse
-       cy="-96.637787"
-       cx="400.00009"
-       id="circle5871"
-       style="display:inline;opacity:1;fill:#eff1f3;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       rx="9"
-       ry="9.000001" />
+    <g
+       id="slidercursor-normal">
+      <ellipse
+         ry="10.000001"
+         rx="10"
+         style="display:inline;opacity:1;fill:#c3c9d6;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle5833"
+         cx="349.00046"
+         cy="-96.637848" />
+      <ellipse
+         ry="9.000001"
+         rx="9"
+         cy="-96.637848"
+         cx="349.00046"
+         id="circle5835"
+         style="display:inline;opacity:1;fill:#eff1f3;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       id="slidercursor-focused">
+      <ellipse
+         ry="10.000001"
+         rx="10"
+         cy="-96.637787"
+         cx="400.00009"
+         id="circle5869"
+         style="display:inline;opacity:1;fill:#00acc1;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <ellipse
+         ry="9.000001"
+         rx="9"
+         style="display:inline;opacity:1;fill:#eff1f3;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle5871"
+         cx="400.00009"
+         cy="-96.637787" />
+    </g>
     <text
        sodipodi:linespacing="125%"
        id="text4753"
@@ -5859,34 +5849,40 @@
          id="tspan4767"
          x="377.83322"
          y="-75.955315">slidercursor-focused</tspan></text>
-    <ellipse
-       ry="10.000001"
-       rx="10"
-       style="display:inline;opacity:1;fill:#00acc1;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="ellipse4769"
-       cx="349.00046"
-       cy="-48.637848" />
-    <ellipse
-       ry="9.000001"
-       rx="9"
-       cy="-48.637848"
-       cx="349.00046"
-       id="ellipse4771"
-       style="display:inline;opacity:1;fill:#26c6da;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <ellipse
-       ry="10.000001"
-       rx="10"
-       cy="-48.637787"
-       cx="400.00009"
-       id="ellipse4773"
-       style="display:inline;opacity:1;fill:#b6c0c8;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <ellipse
-       ry="9.000001"
-       rx="9"
-       style="display:inline;opacity:1;fill:#d3d9de;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="ellipse4775"
-       cx="400.00009"
-       cy="-48.637787" />
+    <g
+       id="slidercursor-pressed">
+      <ellipse
+         cy="-48.637848"
+         cx="349.00046"
+         id="ellipse4769"
+         style="display:inline;opacity:1;fill:#00acc1;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         rx="10"
+         ry="10.000001" />
+      <ellipse
+         style="display:inline;opacity:1;fill:#26c6da;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="ellipse4771"
+         cx="349.00046"
+         cy="-48.637848"
+         rx="9"
+         ry="9.000001" />
+    </g>
+    <g
+       id="slidercursor-disabled">
+      <ellipse
+         style="display:inline;opacity:1;fill:#b6c0c8;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="ellipse4773"
+         cx="400.00009"
+         cy="-48.637787"
+         rx="10"
+         ry="10.000001" />
+      <ellipse
+         cy="-48.637787"
+         cx="400.00009"
+         id="ellipse4775"
+         style="display:inline;opacity:1;fill:#d3d9de;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         rx="9"
+         ry="9.000001" />
+    </g>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:125%;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:0px;fill:#eff1f3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -5910,7 +5906,7 @@
          id="tspan4783"
          sodipodi:role="line">slidercursor-disabled</tspan></text>
     <g
-       id="g5416">
+       id="menu-shadow-topleft">
       <image
          width="38"
          height="38"
@@ -5928,7 +5924,7 @@
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g5437">
+       id="menu-shadow-bottomright">
       <image
          width="38"
          height="38"
@@ -5964,7 +5960,7 @@
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g5428">
+       id="menu-shadow-left">
       <image
          width="38"
          height="80"
@@ -5982,7 +5978,7 @@
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g5432">
+       id="menu-shadow-right">
       <image
          width="38"
          height="80"
@@ -6000,7 +5996,7 @@
          y="32.362183" />
     </g>
     <g
-       id="g5420">
+       id="menu-shadow-top">
       <image
          width="80"
          height="38"
@@ -6019,7 +6015,7 @@
          y="-128" />
     </g>
     <g
-       id="g5442">
+       id="menu-shadow-bottom">
       <image
          width="80"
          height="38"
@@ -6038,7 +6034,7 @@
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g5470"
+       id="menu-normal"
        transform="translate(-40,0)">
       <path
          inkscape:connector-curvature="0"
@@ -6059,7 +6055,7 @@
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g5460"
+       id="menu-normal-topright"
        transform="translate(-40,0)">
       <path
          inkscape:connector-curvature="0"
@@ -6080,7 +6076,7 @@
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g5450"
+       id="menu-normal-topleft"
        transform="translate(-40,0)">
       <path
          inkscape:connector-curvature="0"
@@ -6101,7 +6097,7 @@
          y="-5.6378198" />
     </g>
     <g
-       id="g5480"
+       id="menu-normal-bottomleft"
        transform="translate(-40,0)">
       <path
          inkscape:connector-curvature="0"
@@ -6122,7 +6118,7 @@
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g5490"
+       id="menu-normal-bottomright"
        transform="translate(-40,0)">
       <path
          inkscape:connector-curvature="0"
@@ -6143,7 +6139,7 @@
          y="112.36218" />
     </g>
     <g
-       id="g5465"
+       id="menu-normal-left"
        transform="translate(-40,0)">
       <path
          inkscape:connector-curvature="0"
@@ -6164,7 +6160,7 @@
          y="32.362183" />
     </g>
     <g
-       id="g5475"
+       id="menu-normal-right"
        transform="translate(-40,0)">
       <path
          inkscape:connector-curvature="0"
@@ -6185,7 +6181,7 @@
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g5455"
+       id="g5314"
        transform="translate(-40,0)">
       <path
          inkscape:connector-curvature="0"
@@ -6207,7 +6203,7 @@
          transform="matrix(0,1,-1,0,0,0)" />
     </g>
     <g
-       id="g5485"
+       id="menu-normal-bottom"
        transform="translate(-40,0)">
       <path
          inkscape:connector-curvature="0"
@@ -6251,7 +6247,7 @@
          id="tspan5501"
          sodipodi:role="line">menu-normal</tspan></text>
     <g
-       id="g5503"
+       id="menu-pressed"
        transform="matrix(1,0,0,0.49999998,140,56.181094)">
       <path
          style="opacity:1;fill:#26c6da;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -6267,7 +6263,7 @@
          y="32.362179" />
     </g>
     <g
-       id="g5512"
+       id="menu-pressed-topright"
        transform="translate(140,40)">
       <path
          style="opacity:1;fill:#00acc1;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -6288,7 +6284,7 @@
          y="-5.6378198" />
     </g>
     <g
-       id="g5521"
+       id="menu-pressed-topleft"
        transform="translate(140,40)">
       <path
          style="opacity:1;fill:#00acc1;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -6309,7 +6305,7 @@
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g5529"
+       id="menu-pressed-bottomleft"
        transform="translate(140,0)">
       <path
          style="opacity:1;fill:#00acc1;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -6330,7 +6326,7 @@
          y="112.36218" />
     </g>
     <g
-       id="g5537"
+       id="menu-pressed-bottomright"
        transform="translate(140,0)">
       <path
          style="opacity:1;fill:#00acc1;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -6351,7 +6347,7 @@
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g5545"
+       id="menu-pressed-left"
        transform="matrix(1,0,0,0.49999998,140,56.181094)">
       <path
          style="opacity:1;fill:#00acc1;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -6382,7 +6378,7 @@
       <path
          style="opacity:1;fill:#26c6da;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          d="m 371,32.36218 -23,0 0,80 23,0 0,-80 z"
-         id="path5557"
+         id="menu-pressed-right"
          inkscape:connector-curvature="0" />
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -6393,7 +6389,7 @@
          y="32.362183" />
     </g>
     <g
-       id="g5561"
+       id="menu-normal-top"
        transform="translate(140,40)">
       <path
          style="opacity:1;fill:#00acc1;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -6415,7 +6411,7 @@
          y="-348" />
     </g>
     <g
-       id="g5570"
+       id="menu-pressed-bottom"
        transform="translate(140,0)">
       <path
          style="opacity:1;fill:#00acc1;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -6449,7 +6445,7 @@
          y="160.04469">menu-pressed</tspan></text>
     <g
        transform="matrix(1,0,0,0.49999998,-220,196.18109)"
-       id="g5583">
+       id="menu-toggled">
       <path
          inkscape:connector-curvature="0"
          id="path5587"
@@ -6465,7 +6461,7 @@
     </g>
     <g
        transform="translate(-220,180)"
-       id="g5591">
+       id="menu-toggled-topright">
       <path
          inkscape:connector-curvature="0"
          id="path5593"
@@ -6486,7 +6482,7 @@
     </g>
     <g
        transform="translate(-220,180)"
-       id="g5599">
+       id="menu-toggled-topleft">
       <path
          inkscape:connector-curvature="0"
          id="path5601"
@@ -6507,7 +6503,7 @@
     </g>
     <g
        transform="translate(-220,140)"
-       id="g5607">
+       id="menu-toggled-bottomleft">
       <path
          inkscape:connector-curvature="0"
          id="path5609"
@@ -6528,7 +6524,7 @@
     </g>
     <g
        transform="translate(-220,140)"
-       id="g5615">
+       id="menu-toggled-bottomright">
       <path
          inkscape:connector-curvature="0"
          id="path5617"
@@ -6549,7 +6545,7 @@
     </g>
     <g
        transform="matrix(1,0,0,0.49999998,-220,196.18109)"
-       id="g5625">
+       id="menu-toggled-left">
       <path
          inkscape:connector-curvature="0"
          id="path5627"
@@ -6570,7 +6566,7 @@
     </g>
     <g
        transform="matrix(1,0,0,0.49999998,-220,196.18109)"
-       id="g5633">
+       id="menu-toggled-right">
       <path
          inkscape:connector-curvature="0"
          id="path5635"
@@ -6591,7 +6587,7 @@
     </g>
     <g
        transform="translate(-220,180)"
-       id="g5641">
+       id="menu-toggled-top">
       <path
          inkscape:connector-curvature="0"
          id="path5643"
@@ -6613,7 +6609,7 @@
     </g>
     <g
        transform="translate(-220,140)"
-       id="g5649">
+       id="menu-toggled-bottom">
       <path
          inkscape:connector-curvature="0"
          id="path5651"
@@ -6657,11 +6653,11 @@
          y="300.04468">menubar-normal</tspan></text>
     <path
        inkscape:connector-curvature="0"
-       id="path5665"
+       id="menubar-normal"
        d="m 308,212.36218 -80,0 0,40 80,0 0,-40 z"
        style="opacity:1;fill:#f5f5f5;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <g
-       id="g5778">
+       id="menubar-normal-topright">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect5677"
@@ -6681,7 +6677,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       id="g5768">
+       id="menubar-normal-topleft">
       <rect
          y="182.36218"
          x="198"
@@ -6701,7 +6697,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       id="g5804">
+       id="menubar-normal-bottomleft">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect5693"
@@ -6721,7 +6717,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       id="g5793">
+       id="menubar-normal-bottomright">
       <rect
          y="252.36218"
          x="308"
@@ -6741,7 +6737,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       id="g5783">
+       id="menubar-normal-left">
       <rect
          y="212.36218"
          x="198"
@@ -6761,7 +6757,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       id="g5788">
+       id="menubar-normal-right">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect5718"
@@ -6781,7 +6777,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       id="g5773">
+       id="menubar-normal-top">
       <rect
          transform="matrix(0,1,-1,0,0,0)"
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -6802,7 +6798,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       id="g5798">
+       id="menubar-normal-bottom">
       <rect
          transform="matrix(0,1,-1,0,0,0)"
          y="-308"
@@ -6825,10 +6821,10 @@
     <path
        style="opacity:1;fill:#26c6da;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 468,212.36218 -80,0 0,40 80,0 0,-40 z"
-       id="path5809"
+       id="menubaritem-toggled"
        inkscape:connector-curvature="0" />
     <g
-       id="g5811"
+       id="menubaritem-toggled-topright"
        transform="translate(160,0)">
       <rect
          y="182.36218"
@@ -6849,7 +6845,7 @@
          style="opacity:1;fill:#26c6da;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g5820"
+       id="menubaritem-toggled-topleft"
        transform="translate(160,0)">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -6870,7 +6866,7 @@
          style="opacity:1;fill:#26c6da;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g5828"
+       id="menubaritem-toggled-bottomleft"
        transform="translate(160,0)">
       <rect
          y="252.36218"
@@ -6891,7 +6887,7 @@
          style="opacity:1;fill:#26c6da;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g5836"
+       id="menubaritem-toggled-bottomright"
        transform="translate(160,0)">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -6912,7 +6908,7 @@
          style="opacity:1;fill:#26c6da;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g5844"
+       id="menubaritem-toggled-left"
        transform="translate(160,0)">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -6933,7 +6929,7 @@
          style="opacity:1;fill:#26c6da;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g5852"
+       id="menubaritem-toggled-right"
        transform="translate(160,0)">
       <rect
          y="212.36218"
@@ -6954,7 +6950,7 @@
          style="opacity:1;fill:#26c6da;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g5860"
+       id="menubaritem-toggled-top"
        transform="translate(160,0)">
       <rect
          y="-308"
@@ -6976,7 +6972,7 @@
          style="opacity:1;fill:#26c6da;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g5868"
+       id="menubaritem-toggled-bottom"
        transform="translate(160,0)">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -6999,12 +6995,12 @@
     </g>
     <path
        inkscape:connector-curvature="0"
-       id="path5876"
+       id="menubaritem-pressed"
        d="m 308,352.36218 -80,0 0,40 80,0 0,-40 z"
        style="opacity:1;fill:#26c6da;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <g
        transform="translate(0,140)"
-       id="g5879">
+       id="menubaritem-pressed-topright">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect5882"
@@ -7025,7 +7021,7 @@
     </g>
     <g
        transform="translate(0,140)"
-       id="g5888">
+       id="menubaritem-pressed-topleft">
       <rect
          y="182.36218"
          x="198"
@@ -7046,7 +7042,7 @@
     </g>
     <g
        transform="translate(0,140)"
-       id="g5897">
+       id="menubaritem-pressed-bottomleft">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect5899"
@@ -7067,7 +7063,7 @@
     </g>
     <g
        transform="translate(0,140)"
-       id="g5905">
+       id="menubaritem-pressed-bottomright">
       <rect
          y="252.36218"
          x="308"
@@ -7088,7 +7084,7 @@
     </g>
     <g
        transform="translate(0,140)"
-       id="g5915">
+       id="menubaritem-pressed-left">
       <rect
          y="212.36218"
          x="198"
@@ -7109,7 +7105,7 @@
     </g>
     <g
        transform="translate(0,140)"
-       id="g5923">
+       id="menubaritem-pressed-right">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect5925"
@@ -7130,7 +7126,7 @@
     </g>
     <g
        transform="translate(0,140)"
-       id="g5931">
+       id="menubaritem-pressed-top">
       <rect
          transform="matrix(0,1,-1,0,0,0)"
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -7152,7 +7148,7 @@
     </g>
     <g
        transform="translate(0,140)"
-       id="g5939">
+       id="menubaritem-pressed-bottom">
       <rect
          transform="matrix(0,1,-1,0,0,0)"
          y="-308"
@@ -7266,7 +7262,7 @@
          id="tspan5983"
          sodipodi:role="line">menuitem-tearoff-focused</tspan></text>
     <g
-       id="g5997">
+       id="floating-tab-normal-bottomleft">
       <rect
          y="339.36218"
          x="377"
@@ -7283,7 +7279,7 @@
          y="344.36218" />
     </g>
     <g
-       id="g6001">
+       id="floating-tab-normal-bottom">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect5987"
@@ -7300,7 +7296,7 @@
          style="opacity:1;fill:#d3d3d3;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g6005">
+       id="floating-tab-normal-bottomright">
       <rect
          y="339.36218"
          x="389"
@@ -7328,7 +7324,7 @@
          x="364.77078"
          y="354.04468">floating-tab-normal</tspan></text>
     <g
-       id="g6013"
+       id="tabBarFrame-normal-bottomleft"
        transform="translate(0,20)">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -7346,7 +7342,7 @@
          style="opacity:1;fill:#d3d3d3;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g6019"
+       id="tabBarFrame-normal-bottom"
        transform="translate(0,20)">
       <rect
          y="339.36218"
@@ -7364,7 +7360,7 @@
          y="344.36218" />
     </g>
     <g
-       id="g6025"
+       id="tabBarFrame-normal-bottomright"
        transform="translate(0,20)">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -7414,16 +7410,6 @@
          id="tspan5668"
          x="481.73355"
          y="386.04468">floating-tab-focused</tspan></text>
-    <path
-       style="opacity:1;fill:#c3c9d6;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 458 1296 L 458 1304 L 463 1304 L 466 1304 L 466 1301 L 466 1296 L 458 1296 z "
-       transform="translate(0,-867.63782)"
-       id="path5672" />
-    <path
-       style="opacity:1;fill:#eff1f3;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 458 1296 L 458 1301 L 458 1303 L 458 1304 L 465 1304 L 465 1302 L 465 1301 L 465 1296 L 458 1296 z "
-       transform="translate(0,-867.63782)"
-       id="path5686" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:125%;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:0px;fill:#eff1f3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -7447,150 +7433,7 @@
          id="tspan5764"
          sodipodi:role="line">tab-focused</tspan></text>
     <g
-       id="g5770">
-      <rect
-         y="386.36218"
-         x="366"
-         height="8"
-         width="8"
-         id="rect5766"
-         style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <rect
-         y="386.36218"
-         x="372"
-         height="2.0000026"
-         width="2"
-         id="rect5768"
-         style="opacity:1;fill:#c3c9d6;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    </g>
-    <g
-       id="g5774"
-       transform="matrix(-1,0,0,1,732,0)">
-      <rect
-         style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect5776"
-         width="8"
-         height="8"
-         x="366"
-         y="386.36218" />
-      <rect
-         style="opacity:1;fill:#c3c9d6;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect5778"
-         width="2"
-         height="2.0000026"
-         x="372"
-         y="386.36218" />
-    </g>
-    <g
-       id="g5780"
-       transform="translate(-8,8.0000048)">
-      <rect
-         style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect5782"
-         width="8"
-         height="8"
-         x="366"
-         y="386.36218" />
-      <rect
-         style="opacity:1;fill:#c3c9d6;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect5784"
-         width="2"
-         height="2.0000026"
-         x="372"
-         y="386.36218" />
-    </g>
-    <g
-       transform="matrix(1,0,0,-1,0,788.72437)"
-       id="g5786">
-      <rect
-         y="386.36218"
-         x="366"
-         height="8"
-         width="8"
-         id="rect5788"
-         style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <rect
-         y="386.36218"
-         x="372"
-         height="2.0000026"
-         width="2"
-         id="rect5790"
-         style="opacity:1;fill:#c3c9d6;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    </g>
-    <g
-       id="g5792"
-       transform="matrix(1,0,0,-1,0,808.72437)">
-      <rect
-         style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect5794"
-         width="8"
-         height="8"
-         x="366"
-         y="386.36218" />
-      <rect
-         style="opacity:1;fill:#c3c9d6;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect5796"
-         width="2"
-         height="2.0000026"
-         x="372"
-         y="386.36218" />
-    </g>
-    <g
-       transform="matrix(-1,0,0,-1,732,808.72437)"
-       id="g5799">
-      <rect
-         y="386.36218"
-         x="366"
-         height="8"
-         width="8"
-         id="rect5802"
-         style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <rect
-         y="386.36218"
-         x="372"
-         height="2.0000026"
-         width="2"
-         id="rect5804"
-         style="opacity:1;fill:#c3c9d6;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    </g>
-    <g
-       transform="matrix(-1,0,0,-1,732,800.72437)"
-       id="g5806">
-      <rect
-         y="386.36218"
-         x="366"
-         height="8"
-         width="8"
-         id="rect5808"
-         style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <rect
-         y="386.36218"
-         x="372"
-         height="2.0000026"
-         width="2"
-         id="rect5810"
-         style="opacity:1;fill:#c3c9d6;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    </g>
-    <g
-       id="g5812"
-       transform="matrix(-1,0,0,1,740,20)">
-      <rect
-         style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect5814"
-         width="8"
-         height="8"
-         x="366"
-         y="386.36218" />
-      <rect
-         style="opacity:1;fill:#c3c9d6;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect5816"
-         width="2"
-         height="2.0000026"
-         x="372"
-         y="386.36218" />
-    </g>
-    <g
-       id="g4830">
+       id="tab-close-normal">
       <rect
          style="opacity:0.7;fill:none;fill-opacity:0.70196078;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect4774"
@@ -7612,7 +7455,7 @@
          style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#212121;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <g
-       id="g4835">
+       id="tab-close-focused">
       <rect
          y="476.36218"
          x="442"
@@ -7634,7 +7477,7 @@
          style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ef9a9a;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <g
-       id="g4840">
+       id="tab-close-pressed">
       <rect
          style="opacity:0.7;fill:none;fill-opacity:0.70196078;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect4790"
@@ -7656,7 +7499,7 @@
          sodipodi:nodetypes="cc" />
     </g>
     <g
-       id="g4797"
+       id="tab-close-disabled"
        transform="translate(82,700)">
       <rect
          y="-173.63786"
@@ -7741,7 +7584,7 @@
          id="tspan4849"
          sodipodi:role="line">tab-tear</tspan></text>
     <g
-       id="g4822"
+       id="dial"
        transform="translate(-20,-80)">
       <rect
          y="468.36218"
@@ -7787,7 +7630,7 @@
          x="36.244064"
          y="447.04468">dial</tspan></text>
     <g
-       id="g4875"
+       id="dial-notches"
        transform="translate(100,-80)">
       <rect
          y="468.44916"
@@ -7882,7 +7725,7 @@
          sodipodi:role="line">dial-notches</tspan></text>
     <rect
        style="opacity:1;fill:#eff1f3;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect4896"
+       id="slider-tick-normal"
        width="5"
        height="1"
        x="238"
@@ -7999,16 +7842,8 @@
          x="35.470936"
          id="tspan5015"
          sodipodi:role="line">itemview-focused</tspan></text>
-    <rect
-       transform="matrix(0,1,-1,0,0,0)"
-       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect5077"
-       width="29.999996"
-       height="30"
-       x="486.36218"
-       y="-70" />
     <g
-       id="g5155"
+       id="itemview-focused-topright"
        transform="translate(-8,10)">
       <rect
          y="476.36218"
@@ -8025,7 +7860,7 @@
          style="opacity:0.5;fill:#26c6da;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g5185"
+       id="itemview-focused-topleft"
        transform="translate(-8,10)">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -8042,7 +7877,7 @@
          style="opacity:0.5;fill:#26c6da;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g5175"
+       id="itemview-focused-bottomleft"
        transform="translate(-8,0)">
       <rect
          y="546.36218"
@@ -8059,7 +7894,7 @@
          style="opacity:0.5;fill:#26c6da;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g5165"
+       id="itemview-focused-bottomright"
        transform="translate(-8,0)">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -8076,7 +7911,7 @@
          style="opacity:0.5;fill:#26c6da;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g5180"
+       id="itemview-focused-left"
        transform="matrix(1,0,0,0.74999995,-8,136.59057)">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -8093,7 +7928,7 @@
          style="opacity:0.5;fill:#26c6da;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g5160"
+       id="itemview-focused-right"
        transform="matrix(1,0,0,0.74999995,-8,136.59057)">
       <rect
          y="506.36218"
@@ -8109,13 +7944,24 @@
          d="m 78,506.36218 0,40 28,0 0,-40 z"
          style="opacity:0.5;fill:#26c6da;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
-    <path
-       style="opacity:0.5;fill:#26c6da;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 40,488.36217 0,28 30,0 0,-28 -30,0 z"
-       id="path5079"
-       inkscape:connector-curvature="0" />
     <g
-       id="g5170"
+       id="itemview-focused-top">
+      <rect
+         y="-70"
+         x="486.36218"
+         height="30"
+         width="29.999996"
+         id="rect5077"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         transform="matrix(0,1,-1,0,0,0)" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5079"
+         d="m 40,488.36217 0,28 30,0 0,-28 -30,0 z"
+         style="opacity:0.5;fill:#26c6da;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       id="itemview-focused-bottom"
        transform="translate(-8,0)">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -8133,7 +7979,7 @@
     </g>
     <path
        inkscape:connector-curvature="0"
-       id="path5190"
+       id="itemview-pressed"
        d="m 170,516.36218 -30,0 0,30 30,0 0,-30 z"
        style="opacity:1;fill:#26c6da;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <text
@@ -8157,7 +8003,7 @@
        transform="matrix(0,1,-1,0,0,0)" />
     <g
        transform="translate(92,10)"
-       id="g5199">
+       id="itemview-pressed-topright">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect5201"
@@ -8174,7 +8020,7 @@
     </g>
     <g
        transform="translate(92,10)"
-       id="g5205">
+       id="itemview-pressed-topleft">
       <rect
          y="476.36218"
          x="18"
@@ -8191,7 +8037,7 @@
     </g>
     <g
        transform="translate(92,0)"
-       id="g5211">
+       id="itemview-pressed-bottomleft">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect5213"
@@ -8208,7 +8054,7 @@
     </g>
     <g
        transform="translate(92,0)"
-       id="g5217">
+       id="itemview-pressed-bottomright">
       <rect
          y="546.36218"
          x="78"
@@ -8225,7 +8071,7 @@
     </g>
     <g
        transform="matrix(1,0,0,0.74999995,92,136.59057)"
-       id="g5223">
+       id="itemview-pressed-left">
       <rect
          y="506.36218"
          x="18"
@@ -8242,7 +8088,7 @@
     </g>
     <g
        transform="matrix(1,0,0,0.74999995,92,136.59057)"
-       id="g5230">
+       id="itemview-pressed-right">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect5235"
@@ -8259,12 +8105,12 @@
     </g>
     <path
        inkscape:connector-curvature="0"
-       id="path5239"
+       id="itemview-pressed-top"
        d="m 140,488.36217 0,28 30,0 0,-28 -30,0 z"
        style="opacity:1;fill:#26c6da;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <g
        transform="translate(92,0)"
-       id="g5241">
+       id="itemview-pressed-bottom">
       <rect
          transform="matrix(0,1,-1,0,0,0)"
          y="-78"
@@ -8282,7 +8128,7 @@
     <path
        style="opacity:1;fill:#26c6da;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 282,598.36218 -30,0 0,30 30,0 0,-30 z"
-       id="path5247"
+       id="itemview-toggled"
        inkscape:connector-curvature="0" />
     <text
        sodipodi:linespacing="125%"
@@ -8304,7 +8150,7 @@
        x="568.36218"
        y="-282" />
     <g
-       id="g5256"
+       id="itemview-toggled-topright"
        transform="translate(204,92)">
       <rect
          y="476.36218"
@@ -8321,7 +8167,7 @@
          style="opacity:1;fill:#26c6da;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g5262"
+       id="itemview-toggled-topleft"
        transform="translate(204,92)">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -8338,7 +8184,7 @@
          style="opacity:1;fill:#26c6da;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g5268"
+       id="itemview-toggled-bottomleft"
        transform="translate(204,82)">
       <rect
          y="546.36218"
@@ -8355,7 +8201,7 @@
          style="opacity:1;fill:#26c6da;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g5274"
+       id="itemview-toggled-bottomright"
        transform="translate(204,82)">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -8372,7 +8218,7 @@
          style="opacity:1;fill:#26c6da;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g5281"
+       id="itemview-toggled-left"
        transform="matrix(1,0,0,0.74999995,204,218.59057)">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -8389,7 +8235,7 @@
          style="opacity:1;fill:#26c6da;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g5287"
+       id="itemview-toggled-right"
        transform="matrix(1,0,0,0.74999995,204,218.59057)">
       <rect
          y="506.36218"
@@ -8408,10 +8254,10 @@
     <path
        style="opacity:1;fill:#26c6da;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 252,570.36217 0,28 30,0 0,-28 -30,0 z"
-       id="path5293"
+       id="itemview-toggled-top"
        inkscape:connector-curvature="0" />
     <g
-       id="g5295"
+       id="itemview-toggled-bottom"
        transform="translate(204,82)">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -8428,7 +8274,7 @@
          style="opacity:1;fill:#26c6da;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g5020">
+       id="common-normal-bottomright">
       <rect
          y="612.36218"
          x="418"
@@ -8450,7 +8296,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       id="g5010">
+       id="common-normal-bottomleft">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect4971"
@@ -8472,7 +8318,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       id="g5005">
+       id="common-normal-right">
       <rect
          transform="matrix(0,1,-1,0,0,0)"
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -8495,7 +8341,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       id="g5015">
+       id="common-normal-bottom">
       <rect
          y="612.36218"
          x="382"
@@ -8517,7 +8363,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       id="g5000">
+       id="common-normal-left">
       <rect
          transform="matrix(0,1,-1,0,0,0)"
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -8540,7 +8386,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       id="g4990">
+       id="common-normal-top">
       <rect
          y="572.36218"
          x="382"
@@ -8562,7 +8408,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       id="g4985">
+       id="common-normal-topleft">
       <rect
          y="572.36218"
          x="378"
@@ -8584,7 +8430,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       id="g4995">
+       id="common-normal-topright">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect4973"
@@ -8617,7 +8463,7 @@
          x="382.03757"
          y="624.04468">common-normal</tspan></text>
     <g
-       id="g5025"
+       id="common-focused-bottomright"
        transform="translate(60,0)">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -8640,7 +8486,7 @@
          sodipodi:nodetypes="cccssc" />
     </g>
     <g
-       id="g5035"
+       id="common-focused-bottomleft"
        transform="translate(60,0)">
       <rect
          y="612.36218"
@@ -8663,7 +8509,7 @@
          sodipodi:nodetypes="cccssc" />
     </g>
     <g
-       id="g5045"
+       id="common-focused-right"
        transform="translate(60,0)">
       <rect
          y="-422"
@@ -8687,7 +8533,7 @@
          sodipodi:nodetypes="ccccc" />
     </g>
     <g
-       id="g5055"
+       id="common-focused-bottom"
        transform="translate(60,0)">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -8710,7 +8556,7 @@
          sodipodi:nodetypes="ccccc" />
     </g>
     <g
-       id="g5065"
+       id="common-focused-left"
        transform="translate(60,0)">
       <rect
          y="-382"
@@ -8734,7 +8580,7 @@
          sodipodi:nodetypes="ccccc" />
     </g>
     <g
-       id="g5075"
+       id="common-focused-top"
        transform="translate(60,0)">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -8757,7 +8603,7 @@
          sodipodi:nodetypes="ccccc" />
     </g>
     <g
-       id="g5085"
+       id="common-focused-topleft"
        transform="translate(60,0)">
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -8780,7 +8626,7 @@
          sodipodi:nodetypes="cccssc" />
     </g>
     <g
-       id="g5096"
+       id="common-focused-topright"
        transform="translate(60,0)">
       <rect
          y="572.36218"
@@ -11013,7 +10859,7 @@
          r="4" />
     </g>
     <g
-       id="g6036">
+       id="tabframe-normal-topleft">
       <path
          id="path6049"
          d="m 424,332.36218 c -1.10799,0 -2,0.89201 -2,2 l 0,6 8,0 0,-8 -6,0 z"
@@ -11033,7 +10879,7 @@
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g6046">
+       id="tabframe-normal-topright">
       <path
          id="path6035"
          d="m 458,332.36218 0,8 8,0 0,-6 c 0,-1.10799 -0.89201,-2 -2,-2 l -6,0 z"
@@ -11053,7 +10899,7 @@
          y="332.36218" />
     </g>
     <g
-       id="g6065">
+       id="tabframe-normal-bottomleft">
       <path
          id="path6039"
          d="m 430,376.36218 0,-8 -8,0 0,6 c 0,1.10799 0.89201,2 2,2 l 6,0 z"
@@ -11073,7 +10919,7 @@
          y="368.36218" />
     </g>
     <g
-       id="g6075">
+       id="tabframe-normal-bottomright">
       <path
          id="path6037"
          d="m 466,368.36218 -8,0 0,8 6,0 c 1.10799,0 2,-0.89201 2,-2 l 0,-6 z"
@@ -11093,7 +10939,7 @@
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g6041">
+       id="tabframe-normal-top">
       <path
          id="path6047"
          d="m 430,332.36218 0,8 28,0 0,-8 -28,0 z"
@@ -11113,7 +10959,7 @@
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g6070">
+       id="tabframe-normal-bottom">
       <path
          id="path6045"
          d="m 458,368.36218 -28,0 0,8 28,0 0,-8 z"
@@ -11133,7 +10979,7 @@
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g6060">
+       id="tabframe-normal-right">
       <path
          id="path6041"
          d="m 458,340.36218 0,28 8,0 0,-28 -8,0 z"
@@ -11154,7 +11000,7 @@
          y="-465.99997" />
     </g>
     <g
-       id="g6051">
+       id="tabframe-normal-left">
       <path
          id="path6043"
          d="m 430,368.36218 0,-28 -8,0 0,28 8,0 z"
@@ -11175,7 +11021,7 @@
          y="-429.99997" />
     </g>
     <g
-       id="g6056">
+       id="tabframe-normal">
       <path
          inkscape:connector-curvature="0"
          id="path6059"
@@ -11190,7 +11036,7 @@
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g6080">
+       id="floating-tab-focused-topleft">
       <path
          inkscape:connector-curvature="0"
          style="opacity:1;fill:#00acc1;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -11210,7 +11056,7 @@
          y="332.36218" />
     </g>
     <g
-       id="g6090">
+       id="floating-tab-focused-topright">
       <path
          inkscape:connector-curvature="0"
          style="opacity:1;fill:#00acc1;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -11230,7 +11076,7 @@
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g6109">
+       id="floating-tab-focused-bottomleft">
       <path
          inkscape:connector-curvature="0"
          style="opacity:1;fill:#00acc1;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -11250,7 +11096,7 @@
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g6119">
+       id="floating-tab-focused-bottomright">
       <path
          inkscape:connector-curvature="0"
          style="opacity:1;fill:#00acc1;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -11270,7 +11116,7 @@
          y="368.36218" />
     </g>
     <g
-       id="g6085">
+       id="floating-tab-focused-top">
       <path
          inkscape:connector-curvature="0"
          style="opacity:1;fill:#00acc1;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -11290,7 +11136,7 @@
          y="332.36218" />
     </g>
     <g
-       id="g6114">
+       id="floating-tab-focused-bottom">
       <path
          inkscape:connector-curvature="0"
          style="opacity:1;fill:#00acc1;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -11310,7 +11156,7 @@
          y="368.36218" />
     </g>
     <g
-       id="g6104">
+       id="floating-tab-focused-right">
       <path
          inkscape:connector-curvature="0"
          style="opacity:1;fill:#00acc1;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -11331,7 +11177,7 @@
          transform="matrix(0,1,-1,0,0,0)" />
     </g>
     <g
-       id="g6095">
+       id="floating-tab-focused-left">
       <path
          inkscape:connector-curvature="0"
          style="opacity:1;fill:#00acc1;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -11352,7 +11198,7 @@
          transform="matrix(0,1,-1,0,0,0)" />
     </g>
     <g
-       id="g6100">
+       id="floating-tab-focused">
       <path
          style="opacity:1;fill:#eff1f3;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          d="m 490,340.36218 0,28 28,0 0,-28 -28,0 z"
@@ -11367,7 +11213,7 @@
          y="340.36218" />
     </g>
     <g
-       id="g6171">
+       id="tab-focused-topleft">
       <path
          id="path5742"
          d="m 484,392.36218 c -1.10799,0 -2,0.89201 -2,2 l 0,6 8,0 0,-8 -6,0 z"
@@ -11387,7 +11233,7 @@
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g6181">
+       id="tab-focused-topright">
       <path
          id="path5728"
          d="m 518,392.36218 0,8 8,0 0,-6 c 0,-1.10799 -0.89201,-2 -2,-2 l -6,0 z"
@@ -11407,7 +11253,7 @@
          y="392.36218" />
     </g>
     <g
-       id="g6200">
+       id="tab-focused-bottomleft">
       <path
          inkscape:connector-curvature="0"
          style="opacity:1;fill:#00acc1;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -11427,7 +11273,7 @@
          y="428.36218" />
     </g>
     <g
-       id="g6210">
+       id="tab-focused-bottomright">
       <path
          inkscape:connector-curvature="0"
          style="opacity:1;fill:#00acc1;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -11447,7 +11293,7 @@
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g6176">
+       id="tab-focused-top">
       <path
          id="path5740"
          d="m 490,392.36218 0,8 28,0 0,-8 -28,0 z"
@@ -11467,7 +11313,7 @@
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g6205">
+       id="tab-focused-bottom">
       <path
          id="path5738"
          d="m 518,428.36218 -28,0 0,8 28,0 0,-8 z"
@@ -11487,7 +11333,7 @@
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g6195">
+       id="tab-focused-right">
       <path
          id="path5734"
          d="m 518,400.36218 0,28 8,0 0,-28 -8,0 z"
@@ -11508,7 +11354,7 @@
          y="-526" />
     </g>
     <g
-       id="g6186">
+       id="tab-focused-left">
       <path
          id="path5736"
          d="m 490,428.36218 0,-28 -8,0 0,28 8,0 z"
@@ -11544,7 +11390,7 @@
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g6124">
+       id="tab-toggled-topleft">
       <path
          inkscape:connector-curvature="0"
          style="opacity:1;fill:#c3c9d6;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -11564,7 +11410,7 @@
          y="392.36218" />
     </g>
     <g
-       id="g6134">
+       id="tab-toggled-topright">
       <path
          inkscape:connector-curvature="0"
          style="opacity:1;fill:#c3c9d6;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -11584,17 +11430,19 @@
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g6153">
+       id="tab-toggled-bottomleft">
       <path
          id="path5674"
          transform="translate(0,-867.63782)"
-         d="M 422 1296 L 422 1302 L 422 1304 L 424 1304 L 426 1304 L 430 1304 L 430 1296 L 422 1296 z "
-         style="opacity:1;fill:#c3c9d6;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         d="m 422,1296 0,6 0,2 2,0 2,0 4,0 0,-8 -8,0 z"
+         style="opacity:1;fill:#c3c9d6;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
       <path
          id="path5688"
          transform="translate(0,-867.63782)"
-         d="M 423 1296 L 423 1302 L 423 1304 L 430 1304 L 430 1303 L 430 1302 L 430 1296 L 423 1296 z "
-         style="opacity:1;fill:#eff1f3;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         d="m 423,1296 0,6 0,2 7,0 0,-1 0,-1 0,-6 -7,0 z"
+         style="opacity:1;fill:#eff1f3;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
       <rect
          y="428.36218"
          x="422"
@@ -11603,15 +11451,30 @@
          id="rect6020"
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
-    <rect
-       y="428.36218"
-       x="458"
-       height="8"
-       width="8"
-       id="rect6024"
-       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <g
-       id="g6129">
+       id="tab-toggled-bottomright">
+      <path
+         id="path5672"
+         transform="translate(0,-867.63782)"
+         d="m 458,1296 0,8 5,0 3,0 0,-3 0,-5 -8,0 z"
+         style="opacity:1;fill:#c3c9d6;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path5686"
+         transform="translate(0,-867.63782)"
+         d="m 458,1296 0,5 0,2 0,1 7,0 0,-2 0,-1 0,-5 -7,0 z"
+         style="opacity:1;fill:#eff1f3;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6024"
+         width="8"
+         height="8"
+         x="458"
+         y="428.36218" />
+    </g>
+    <g
+       id="tab-toggled-top">
       <path
          inkscape:connector-curvature="0"
          style="opacity:1;fill:#c3c9d6;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -11631,7 +11494,7 @@
          y="392.36218" />
     </g>
     <g
-       id="g6166">
+       id="tab-toggled-bottom">
       <path
          inkscape:connector-curvature="0"
          style="opacity:1;fill:#c3c9d6;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -11651,7 +11514,7 @@
          y="428.36218" />
     </g>
     <g
-       id="g6148">
+       id="tab-toggled-right">
       <path
          inkscape:connector-curvature="0"
          style="opacity:1;fill:#c3c9d6;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -11672,7 +11535,7 @@
          transform="matrix(0,1,-1,0,0,0)" />
     </g>
     <g
-       id="g6139">
+       id="tab-toggled-left">
       <path
          inkscape:connector-curvature="0"
          style="opacity:1;fill:#c3c9d6;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -11693,7 +11556,7 @@
          transform="matrix(0,1,-1,0,0,0)" />
     </g>
     <g
-       id="g6144">
+       id="tab-toggled">
       <path
          style="opacity:1;fill:#eff1f3;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          d="m 430,400.36218 0,28 28,0 0,-28 -28,0 z"
@@ -11735,5 +11598,76 @@
        id="focus-left"
        style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        transform="matrix(0,1,-1,0,0,0)" />
+    <g
+       transform="translate(92.5,-472.51282)"
+       style="fill-rule:evenodd;stroke:none"
+       id="tabframe-normal-top-leftjunct">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill-opacity:0"
+         id="tabframe-normal-top-leftjunct0"
+         d="m 269,865 -4,0 0,4 4,0 z" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#c3c9d6;fill-opacity:1"
+         id="path5396"
+         d="m 266,865 -1,0 0,1 1,0 z" />
+    </g>
+    <use
+       width="100%"
+       x="0"
+       y="0"
+       height="100%"
+       xlink:href="#tabframe-normal-top-leftjunct"
+       id="tabframe-normal-top-rightjunct"
+       transform="matrix(-1,0,0,1,723,-2.2698786e-5)" />
+    <use
+       width="100%"
+       x="0"
+       y="0"
+       height="100%"
+       xlink:href="#tabframe-normal-top-leftjunct"
+       id="tabframe-normal-right-leftjunct"
+       transform="matrix(-1,0,0,1,719,4.9999773)" />
+    <use
+       width="100%"
+       x="0"
+       y="0"
+       height="100%"
+       xlink:href="#tabframe-normal-right-leftjunct"
+       id="tabframe-normal-right-rightjunct"
+       transform="matrix(1,0,0,-1,4.000004,798.97436)" />
+    <use
+       width="100%"
+       x="0"
+       y="0"
+       height="100%"
+       xlink:href="#tabframe-normal-top-leftjunct"
+       id="tabframe-normal-left-leftjunct"
+       transform="matrix(1,0,0,-1,4e-6,798.97436)" />
+    <use
+       width="100%"
+       x="0"
+       y="0"
+       height="100%"
+       xlink:href="#tabframe-normal-top-leftjunct"
+       id="tabframe-normal-left-rightjunct"
+       transform="translate(4.000004,9.9999773)" />
+    <use
+       width="100%"
+       x="0"
+       y="0"
+       height="100%"
+       xlink:href="#tabframe-normal-top-leftjunct"
+       id="tabframe-normal-bottom-leftjunct"
+       transform="matrix(1,0,0,-1,4e-6,802.97436)" />
+    <use
+       width="100%"
+       x="0"
+       y="0"
+       height="100%"
+       xlink:href="#tabframe-normal-top-leftjunct"
+       id="tabframe-normal-bottom-rightjunct"
+       transform="matrix(-1,0,0,-1,723,802.97436)" />
   </g>
 </svg>
