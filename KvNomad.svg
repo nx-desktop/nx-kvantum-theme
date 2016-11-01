@@ -54,9 +54,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="245.03858"
-     inkscape:cy="1009.1136"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="376.82665"
+     inkscape:cy="770.96347"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -93,7 +93,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -153,13 +153,6 @@
          style="opacity:1;fill:#eff1f3;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          inkscape:connector-curvature="0" />
     </g>
-    <rect
-       style="opacity:1;fill:#c3c9d6;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect5214"
-       width="2"
-       height="16.000002"
-       x="34"
-       y="-332.63782" />
     <rect
        style="fill-rule:evenodd;stroke:none;stroke-width:3.60899997;stroke-linecap:round;stroke-linejoin:round"
        width="10"
@@ -3101,22 +3094,32 @@
          id="tspan5208"
          x="10.82836"
          y="-309.95532">spin-separator-normal</tspan></text>
-    <rect
-       transform="matrix(0,-1,1,0,0,0)"
-       y="34"
-       x="332.63782"
-       height="2"
-       width="0.99999738"
-       id="rect5204"
-       style="opacity:1;fill:#c3c9d6;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <rect
-       style="opacity:1;fill:#c3c9d6;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect5212"
-       width="1.0000026"
-       height="2"
-       x="315.63782"
-       y="34"
-       transform="matrix(0,-1,1,0,0,0)" />
+    <g
+       id="spin-separator-normal">
+      <rect
+         y="-332.63782"
+         x="34"
+         height="16.000002"
+         width="2"
+         id="rect5291"
+         style="opacity:1;fill:#c3c9d6;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:#c3c9d6;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect5204"
+         width="0.99999738"
+         height="2"
+         x="332.63782"
+         y="34"
+         transform="matrix(0,-1,1,0,0,0)" />
+      <rect
+         transform="matrix(0,-1,1,0,0,0)"
+         y="34"
+         x="315.63782"
+         height="2"
+         width="1.0000026"
+         id="rect5212"
+         style="opacity:1;fill:#c3c9d6;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
     <text
        sodipodi:linespacing="125%"
        id="text5222"
@@ -3129,7 +3132,7 @@
          id="tspan5224"
          sodipodi:role="line">spin-separator-pressed</tspan></text>
     <g
-       id="g5921">
+       id="spin-separator-pressed">
       <rect
          style="opacity:1;fill:#26c6da;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect5234"
@@ -3155,7 +3158,7 @@
          transform="matrix(0,-1,1,0,0,0)" />
     </g>
     <g
-       id="g5305">
+       id="mdi-maximize-normal">
       <rect
          y="-338.63782"
          x="135"
@@ -3201,7 +3204,7 @@
          sodipodi:nodetypes="cc" />
     </g>
     <g
-       id="g5314">
+       id="mdi-maximize-focused">
       <rect
          style="opacity:0.7;fill:none;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect3211"
@@ -3247,7 +3250,7 @@
          sodipodi:nodetypes="cc" />
     </g>
     <g
-       id="g5323">
+       id="mdi-maximize-pressed">
       <rect
          y="-338.63782"
          x="243"
@@ -3293,7 +3296,7 @@
          style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#73b9ff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <g
-       id="g5332">
+       id="mdi-minimize-normal">
       <rect
          y="-338.63782"
          x="299"
@@ -3309,7 +3312,7 @@
          sodipodi:nodetypes="cc" />
     </g>
     <g
-       id="g5336">
+       id="mdi-minimize-focused">
       <rect
          style="opacity:0.7;fill:none;fill-opacity:0.70196078;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect3211-0"
@@ -3325,7 +3328,7 @@
          style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#bbdefb;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <g
-       id="g5340">
+       id="mdi-minimize-pressed">
       <rect
          y="-338.63782"
          x="407"
@@ -3341,7 +3344,7 @@
          sodipodi:nodetypes="cc" />
     </g>
     <g
-       id="g5391">
+       id="mdi-restore-pressed">
       <rect
          style="opacity:0.7;fill:none;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect4965"
@@ -3387,7 +3390,7 @@
          style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#acb3c0;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <g
-       id="g5382">
+       id="mdi-restore-focused">
       <rect
          transform="scale(-1,-1)"
          y="198.63782"
@@ -3434,7 +3437,7 @@
          style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#bbdefb;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <g
-       id="g5373">
+       id="mdi-restore-normal">
       <rect
          style="opacity:0.7;fill:none;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect4961"
@@ -3480,7 +3483,7 @@
          sodipodi:nodetypes="cc" />
     </g>
     <g
-       id="g5400">
+       id="mdi-close-normal">
       <rect
          y="-229.63782"
          x="300"
@@ -3502,7 +3505,7 @@
          sodipodi:nodetypes="cc" />
     </g>
     <g
-       id="g5405">
+       id="mdi-close-focused">
       <rect
          style="opacity:0.7;fill:none;fill-opacity:0.70196078;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect3211-2"
@@ -3524,7 +3527,7 @@
          sodipodi:nodetypes="cc" />
     </g>
     <g
-       id="g5410">
+       id="mdi-close-pressed">
       <rect
          y="-229.63782"
          x="408"
@@ -3546,7 +3549,7 @@
          style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ef5350;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <g
-       id="g5344">
+       id="mdi-shade-normal">
       <rect
          style="opacity:0.7;fill:none;fill-opacity:0.70196078;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect5087"
@@ -3562,7 +3565,7 @@
          style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#acb3c0;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <g
-       id="g5348">
+       id="mdi-shade-focused">
       <rect
          y="-338.63782"
          x="521"
@@ -3578,7 +3581,7 @@
          sodipodi:nodetypes="cc" />
     </g>
     <g
-       id="g5369">
+       id="mdi-shade-pressed">
       <rect
          style="opacity:0.7;fill:none;fill-opacity:0.70196078;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect5083"
@@ -3594,7 +3597,7 @@
          style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#73b9ff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <g
-       id="g5352">
+       id="mdi-maximize-disabled">
       <rect
          style="opacity:0.7;fill:none;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect5095"
@@ -3640,7 +3643,7 @@
          style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#c3c9d6;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <g
-       id="g5361">
+       id="mdi-minimize-disabled">
       <rect
          style="opacity:0.7;fill:none;fill-opacity:0.70196078;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect5109"
@@ -3656,7 +3659,7 @@
          style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#c3c9d6;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <g
-       id="g5427">
+       id="mdi-restore-disabled">
       <rect
          y="-180.63782"
          x="135"
@@ -3702,7 +3705,7 @@
          style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#c3c9d6;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <g
-       id="g5436">
+       id="mdi-close-disabled">
       <rect
          style="opacity:0.7;fill:none;fill-opacity:0.70196078;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect5127"
@@ -3724,7 +3727,7 @@
          style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#c3c9d6;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <g
-       id="g5365">
+       id="mdi-shade-disabled">
       <rect
          y="-290.63782"
          x="465"
@@ -3907,14 +3910,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:125%;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:0px;fill:#eff1f3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="515.60974"
+       x="516.18103"
        y="-250.95532"
        id="text5201"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5203"
-         x="515.60974"
-         y="-250.95532">mdi-shade-disabled</tspan></text>
+         x="516.18103"
+         y="-250.95532">mdi-shade-pressed</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:125%;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:0px;fill:#eff1f3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -4004,7 +4007,7 @@
          id="tspan5251"
          sodipodi:role="line">mdi-menu-disabled</tspan></text>
     <g
-       id="g5415">
+       id="mdi-menu-normal">
       <rect
          y="-230.63782"
          x="465"
@@ -4032,7 +4035,7 @@
          sodipodi:nodetypes="cc" />
     </g>
     <g
-       id="g5421">
+       id="mdi-menu-focused">
       <rect
          style="opacity:0.7;fill:none;fill-opacity:0.70196078;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect5223"
@@ -4060,7 +4063,7 @@
          style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#bbdefb;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <g
-       id="g5447">
+       id="mdi-menu-disabled">
       <rect
          y="-182.63782"
          x="521"
@@ -4088,7 +4091,7 @@
          sodipodi:nodetypes="cc" />
     </g>
     <g
-       id="g5441">
+       id="g5293">
       <rect
          style="opacity:0.7;fill:none;fill-opacity:0.70196078;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect5233"
@@ -4120,7 +4123,7 @@
        x="25"
        height="32"
        width="32"
-       id="rect5269"
+       id="tittlebar-normal"
        style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <text
        sodipodi:linespacing="125%"
@@ -4135,7 +4138,7 @@
          sodipodi:role="line">titlebar-normal</tspan></text>
     <rect
        style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect5287"
+       id="titlebar-focused"
        width="32"
        height="32"
        x="79"
@@ -4152,7 +4155,7 @@
          x="77.711761"
          y="-248.95532">titlebar-focused</tspan></text>
     <g
-       id="g5692"
+       id="scrollbarslider-focused"
        transform="matrix(0.33333343,0,0,1,78.000007,0)">
       <path
          inkscape:connector-curvature="0"
@@ -4161,7 +4164,7 @@
          id="path5576" />
     </g>
     <g
-       id="g5630"
+       id="scrollbarslider-normal-topleft"
        transform="translate(4,0)">
       <path
          sodipodi:nodetypes="sscccs"
@@ -4186,7 +4189,7 @@
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g5635"
+       id="scrollbarslider-normal-top"
        transform="matrix(0.33333338,0,0,1,29.333354,0)">
       <path
          transform="translate(0,-867.63782)"
@@ -4209,7 +4212,7 @@
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g5640"
+       id="scrollbarslider-normal-topright"
        transform="translate(-4,0)">
       <path
          sodipodi:nodetypes="cccssc"
@@ -4234,7 +4237,7 @@
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g5645"
+       id="scrollbarslider-normal-left"
        transform="translate(4,0)">
       <path
          sodipodi:nodetypes="ccccc"
@@ -4259,7 +4262,7 @@
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g5650"
+       id="scrollbarslider-normal"
        transform="matrix(0.33333338,0,0,1,29.333354,0)">
       <path
          transform="translate(0,-867.63782)"
@@ -4276,7 +4279,7 @@
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g5654"
+       id="scrollbarslider-normal-right"
        transform="translate(-4,0)">
       <path
          sodipodi:nodetypes="ccccc"
@@ -4301,7 +4304,7 @@
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g5669"
+       id="scrollbarslider-normal-bottomleft"
        transform="translate(4,0)">
       <path
          sodipodi:nodetypes="ccsscc"
@@ -4326,7 +4329,7 @@
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g5659"
+       id="scrollbarslider-normal-bottomright"
        transform="translate(-4,0)">
       <path
          sodipodi:nodetypes="cccssc"
@@ -4351,7 +4354,7 @@
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g5664"
+       id="scrollbarslider-normal-bottom"
        transform="matrix(0.33333338,0,0,1,29.333354,0)">
       <path
          transform="translate(0,-867.63782)"
@@ -4374,7 +4377,7 @@
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g5710"
+       id="scrollbarslider-focused-bottomleft"
        transform="translate(26,0)">
       <path
          inkscape:connector-curvature="0"
@@ -4397,7 +4400,7 @@
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g5720"
+       id="scrollbarslider-focused-bottomright"
        transform="translate(18,0)">
       <path
          inkscape:connector-curvature="0"
@@ -4420,7 +4423,7 @@
          y="-89.637817" />
     </g>
     <g
-       id="g5695"
+       id="scrollbarslider-focused-topleft"
        transform="translate(26,0)">
       <path
          inkscape:connector-curvature="0"
@@ -4443,7 +4446,7 @@
          y="-123.63782" />
     </g>
     <g
-       id="g5705"
+       id="scrollbarslider-focused-topright"
        transform="translate(18,0)">
       <path
          inkscape:connector-curvature="0"
@@ -4466,7 +4469,7 @@
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g5700"
+       id="scrollbarslider-focused-top"
        transform="matrix(0.33333343,0,0,1,78.000007,0)">
       <path
          inkscape:connector-curvature="0"
@@ -4487,7 +4490,7 @@
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g5715"
+       id="scrollbarslider-focused-bottom"
        transform="matrix(0.33333343,0,0,1,78.000007,0)">
       <path
          inkscape:connector-curvature="0"
@@ -4508,7 +4511,7 @@
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g5725"
+       id="scrollbarslider-focused-left"
        transform="translate(26,0)">
       <path
          inkscape:connector-curvature="0"
@@ -4531,7 +4534,7 @@
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g5730"
+       id="scrollbarslider-focused-right"
        transform="translate(18,0)">
       <path
          inkscape:connector-curvature="0"
@@ -4577,7 +4580,7 @@
          sodipodi:role="line">scrollbarslider-focused</tspan></text>
     <g
        transform="matrix(0.33333343,0,0,1,138.00001,0)"
-       id="g5743">
+       id="scrollbarslider-pressed">
       <path
          id="path5745"
          d="m 90,-117.63782 -12,0 0,28 12,0 0,-28 z"
@@ -4586,7 +4589,7 @@
     </g>
     <g
        transform="translate(86,0)"
-       id="g5747">
+       id="scrollbarslider-pressed-bottomleft">
       <path
          sodipodi:nodetypes="ccsscc"
          id="path5749"
@@ -4609,7 +4612,7 @@
     </g>
     <g
        transform="translate(78,0)"
-       id="g5755">
+       id="scrollbarslider-pressed-bottomright">
       <path
          sodipodi:nodetypes="cccssc"
          id="path5757"
@@ -4632,7 +4635,7 @@
     </g>
     <g
        transform="translate(86,0)"
-       id="g5763">
+       id="scrollbarslider-pressed-topleft">
       <path
          sodipodi:nodetypes="sscccs"
          id="path5765"
@@ -4655,7 +4658,7 @@
     </g>
     <g
        transform="translate(78,0)"
-       id="g5771">
+       id="scrollbarslider-pressed-topright">
       <path
          sodipodi:nodetypes="cccssc"
          id="path5773"
@@ -4678,7 +4681,7 @@
     </g>
     <g
        transform="matrix(0.33333343,0,0,1,138.00001,0)"
-       id="g5779">
+       id="scrollbarslider-pressed-top">
       <path
          id="path5781"
          d="m 78,-123.63782 0,6 12,0 0,-6 -12,0 z"
@@ -4699,7 +4702,7 @@
     </g>
     <g
        transform="matrix(0.33333343,0,0,1,138.00001,0)"
-       id="g5787">
+       id="scrollbarslider-pressed-bottom">
       <path
          id="path5789"
          d="m 90,-89.63782 -12,0 0,6 12,0 0,-6 z"
@@ -4720,7 +4723,7 @@
     </g>
     <g
        transform="translate(86,0)"
-       id="g5795">
+       id="scrollbarslider-pressed-left">
       <path
          sodipodi:nodetypes="ccccc"
          id="path5797"
@@ -4743,7 +4746,7 @@
     </g>
     <g
        transform="translate(78,0)"
-       id="g5803">
+       id="scrollbarslider-pressed-right">
       <path
          sodipodi:nodetypes="ccccc"
          id="path5805"
@@ -4777,7 +4780,7 @@
          y="-75.955315">scrollbarslider-pressed</tspan></text>
     <g
        transform="matrix(0,1,-1,0,-59.637817,-83.63782)"
-       id="g5815">
+       id="expand-scrollbarslider-normal-topright">
       <path
          style="opacity:1;fill:#c3c9d6;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          d="m 37,744 c -1.107999,0 -2,0.892 -2,2 l 0,4 3,0 0,-6 z"
@@ -4802,7 +4805,7 @@
     </g>
     <g
        transform="matrix(0,0.33333338,-1,0,-59.637817,-58.30446)"
-       id="g5823">
+       id="expand-scrollbarslider-normal-right">
       <path
          inkscape:connector-curvature="0"
          style="opacity:1;fill:#c3c9d6;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -4825,7 +4828,7 @@
     </g>
     <g
        transform="matrix(0,1,-1,0,-59.637817,-91.63782)"
-       id="g5831">
+       id="expand-scrollbarslider-normal-bottomright">
       <path
          style="opacity:1;fill:#c3c9d6;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          d="m 50,744 0,6 3,0 0,-4 c 0,-1.108 -0.892001,-2 -2,-2 z"
@@ -4850,7 +4853,7 @@
     </g>
     <g
        transform="matrix(0,1,-1,0,-59.637817,-83.63782)"
-       id="g5839">
+       id="expand-scrollbarslider-normal-top">
       <path
          style="opacity:1;fill:#c3c9d6;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          d="m 38,750 -3,0 0,28 3,0 z"
@@ -4875,7 +4878,7 @@
     </g>
     <g
        transform="matrix(0,0.33333338,-1,0,-59.637817,-58.30446)"
-       id="g5847">
+       id="expand-scrollbarslider-normal">
       <path
          inkscape:connector-curvature="0"
          style="opacity:1;fill:#eff1f3;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -4892,7 +4895,7 @@
     </g>
     <g
        transform="matrix(0,1,-1,0,-59.637817,-91.63782)"
-       id="g5853">
+       id="expand-scrollbarslider-normal-bottom">
       <path
          style="opacity:1;fill:#c3c9d6;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          d="m 53,750 -3,0 0,28 3,0 z"
@@ -4917,7 +4920,7 @@
     </g>
     <g
        transform="matrix(0,1,-1,0,-59.637817,-83.63782)"
-       id="g5861">
+       id="expand-scrollbarslider-normal-topleft">
       <path
          style="opacity:1;fill:#c3c9d6;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          d="m 38,778 -3,0 0,4 c 0,1.108 0.892001,2 2,2 l 1,0 z"
@@ -4942,7 +4945,7 @@
     </g>
     <g
        transform="matrix(0,1,-1,0,-59.637817,-91.63782)"
-       id="g5869">
+       id="g5296">
       <path
          style="opacity:1;fill:#c3c9d6;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          d="m 53,778 -3,0 0,6 1,0 c 1.107999,0 2,-0.892 2,-2 z"
@@ -4967,7 +4970,7 @@
     </g>
     <g
        transform="matrix(0,0.33333338,-1,0,-59.637817,-58.30446)"
-       id="g5878">
+       id="expand-scrollbarslider-normal-left">
       <path
          inkscape:connector-curvature="0"
          style="opacity:1;fill:#c3c9d6;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -4990,7 +4993,7 @@
     </g>
     <g
        transform="matrix(0,0.33333343,-1,0,22.362182,-71.63781)"
-       id="g5886">
+       id="expand-scrollbarslider-focused">
       <path
          id="path5888"
          d="m 90,-117.63782 -12,0 0,28 12,0 0,-28 z"
@@ -4999,7 +5002,7 @@
     </g>
     <g
        transform="matrix(0,1,-1,0,22.362182,-123.63782)"
-       id="g5890">
+       id="expand-scrollbarslider-focused-topleft">
       <path
          sodipodi:nodetypes="ccsscc"
          id="path5892"
@@ -5022,7 +5025,7 @@
     </g>
     <g
        transform="matrix(0,1,-1,0,22.362182,-131.63782)"
-       id="g5898">
+       id="expand-scrollbarslider-focused-bottomleft">
       <path
          sodipodi:nodetypes="cccssc"
          id="path5900"
@@ -5045,7 +5048,7 @@
     </g>
     <g
        transform="matrix(0,1,-1,0,22.362182,-123.63782)"
-       id="g5906">
+       id="expand-scrollbarslider-focused-topright">
       <path
          sodipodi:nodetypes="sscccs"
          id="path5908"
@@ -5068,7 +5071,7 @@
     </g>
     <g
        transform="matrix(0,1,-1,0,22.362182,-131.63782)"
-       id="g5914">
+       id="expand-scrollbarslider-focused-bottomright">
       <path
          sodipodi:nodetypes="cccssc"
          id="path5916"
@@ -5091,7 +5094,7 @@
     </g>
     <g
        transform="matrix(0,0.33333343,-1,0,22.362182,-71.63781)"
-       id="g5922">
+       id="expand-scrollbarslider-focused-right">
       <path
          id="path5924"
          d="m 78,-123.63782 0,6 12,0 0,-6 -12,0 z"
@@ -5112,7 +5115,7 @@
     </g>
     <g
        transform="matrix(0,0.33333343,-1,0,22.362182,-71.63781)"
-       id="g5930">
+       id="expand-scrollbarslider-focused-left">
       <path
          id="path5932"
          d="m 90,-89.63782 -12,0 0,6 12,0 0,-6 z"
@@ -5133,7 +5136,7 @@
     </g>
     <g
        transform="matrix(0,1,-1,0,22.362182,-123.63782)"
-       id="g5938">
+       id="expand-scrollbarslider-focused-top">
       <path
          sodipodi:nodetypes="ccccc"
          id="path5940"
@@ -5156,7 +5159,7 @@
     </g>
     <g
        transform="matrix(0,1,-1,0,22.362182,-131.63782)"
-       id="g5947">
+       id="expand-scrollbarslider-focused-bottom">
       <path
          sodipodi:nodetypes="ccccc"
          id="path5949"
@@ -5178,7 +5181,7 @@
          y="-117.63782" />
     </g>
     <g
-       id="g5955"
+       id="expand-scrollbarslider-pressed"
        transform="matrix(0,0.33333343,-1,0,102.36218,-71.63781)">
       <path
          inkscape:connector-curvature="0"
@@ -5187,7 +5190,7 @@
          id="path5957" />
     </g>
     <g
-       id="g5960"
+       id="expand-scrollbarslider-pressed-topleft"
        transform="matrix(0,1,-1,0,102.36218,-123.63782)">
       <path
          inkscape:connector-curvature="0"
@@ -5210,7 +5213,7 @@
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g5968"
+       id="expand-scrollbarslider-pressed-bottomleft"
        transform="matrix(0,1,-1,0,102.36218,-131.63782)">
       <path
          inkscape:connector-curvature="0"
@@ -5233,7 +5236,7 @@
          y="-89.637817" />
     </g>
     <g
-       id="g5976"
+       id="expand-scrollbarslider-pressed-topright"
        transform="matrix(0,1,-1,0,102.36218,-123.63782)">
       <path
          inkscape:connector-curvature="0"
@@ -5256,7 +5259,7 @@
          y="-123.63782" />
     </g>
     <g
-       id="g5984"
+       id="expand-scrollbarslider-pressed-bottomright"
        transform="matrix(0,1,-1,0,102.36218,-131.63782)">
       <path
          inkscape:connector-curvature="0"
@@ -5279,7 +5282,7 @@
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g5992"
+       id="expand-scrollbarslider-pressed-right"
        transform="matrix(0,0.33333343,-1,0,102.36218,-71.63781)">
       <path
          inkscape:connector-curvature="0"
@@ -5300,7 +5303,7 @@
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g6000"
+       id="expand-scrollbarslider-pressed-left"
        transform="matrix(0,0.33333343,-1,0,102.36218,-71.63781)">
       <path
          inkscape:connector-curvature="0"
@@ -5321,7 +5324,7 @@
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g6008"
+       id="expand-scrollbarslider-pressed-top"
        transform="matrix(0,1,-1,0,102.36218,-123.63782)">
       <path
          inkscape:connector-curvature="0"
@@ -5344,7 +5347,7 @@
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g6016"
+       id="expand-scrollbarslider-pressed-bottom"
        transform="matrix(0,1,-1,0,102.36218,-131.63782)">
       <path
          inkscape:connector-curvature="0"
