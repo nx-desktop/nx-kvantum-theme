@@ -42,7 +42,9 @@ small_icon_size=16
 large_icon_size=32
 button_icon_size=16
 toolbar_icon_size=22
-combo_as_lineedit=false
+
+combo_as_lineedit=true
+
 animate_states=true
 button_contents_shift=false
 combo_menu=true
@@ -113,8 +115,8 @@ text.shadow=0
 text.margin=4
 text.iconspacing=4
 indicator.element=arrow
-text.margin.top=6
-text.margin.bottom=6
+text.margin.top=4
+text.margin.bottom=4
 text.margin.left=6
 text.margin.right=6
 frame.expansion=12
