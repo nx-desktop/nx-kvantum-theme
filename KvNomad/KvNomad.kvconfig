@@ -98,6 +98,7 @@ iconless_pushbutton=true
 iconless_menu=false
 disabled_icon_opacity=100
 lxqtmainmenu_iconsize=22
+
 normal_default_pushbutton=true
 
 single_top_toolbar=true
