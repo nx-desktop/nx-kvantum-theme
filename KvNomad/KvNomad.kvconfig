@@ -14,7 +14,9 @@ no_active_tab_separator=true
 
 group_toolbar_buttons=false
 spread_progressbar=true
+
 composite=true
+
 menu_shadow_depth=5
 tooltip_shadow_depth=6
 splitter_width=1
@@ -24,8 +26,8 @@ scroll_arrows=true
 scroll_min_extent=60
 
 slider_width=12
-slider_handle_width=22
-slider_handle_length=22
+slider_handle_width=20
+slider_handle_length=20
 center_toolbar_handle=true
 check_size=22
 
@@ -34,15 +36,17 @@ progressbar_thickness=40
 menubar_mouse_tracking=true
 toolbutton_style=1
 double_click=false
-translucent_windows=false
-blurring=false
-popup_blurring=false
+
+translucent_windows=true
+blurring=true
+popup_blurring=true
+
 opaque=kaffeine,kmplayer,subtitlecomposer,kdenlive,smplayer,smplayer2,avidemux,avidemux2_qt4,avidemux3_qt4,kamoso,QtCreator,VirtualBox,trojita,dragon,qupzilla,digikam
 
 vertical_spin_indicators=false
 spin_button_width=32
 
-fill_rubberband=false
+fill_rubberband=true
 
 merge_menubar_with_toolbar=true
 
@@ -61,11 +65,12 @@ groupbox_top_label=true
 inline_spin_indicators=true
 
 layout_spacing=6
-layout_margin=9
+layout_margin=8
 scrollbar_in_view=true
-submenu_overlap=0
+submenu_overlap=4
 tooltip_delay=-1
 tree_branch_line=true
+respect_DE=true
 
 [GeneralColors]
 window.color=#f5f6f7
@@ -91,7 +96,7 @@ progress.indicator.text.color=white
 [Hacks]
 transparent_ktitle_label=true
 transparent_dolphin_view=false
-transparent_pcmanfm_sidepane=true
+transparent_pcmanfm_sidepane=false
 blur_konsole=false
 transparent_menutitle=true
 respect_darkness=false
@@ -221,6 +226,7 @@ text.margin.top=0
 text.margin.bottom=0
 frame.element=tab
 indicator.element=tab
+indicator.size=18
 frame.top=8
 frame.bottom=7
 frame.left=8
@@ -265,20 +271,21 @@ indicator.element=resize-grip
 inherits=PanelButtonCommand
 indicator.element=toolbar
 indicator.size=10
-text.margin=0
+text.margin.top=6
+text.margin.bottom=6
 interior.element=menubar
 frame.element=menubar
 text.normal.color=#000000c8
 text.focus.color=black
-frame.bottom=0
+frame.bottom=6
 frame.expansion=0
 
 [Slider]
 inherits=PanelButtonCommand
 frame.element=slider
 interior.element=slider
-frame.top=6
-frame.bottom=6
+frame.top=3
+frame.bottom=3
 frame.left=28
 frame.right=28
 
@@ -355,17 +362,17 @@ frame=true
 frame.element=menuitem
 interior.element=menuitem
 indicator.element=menuitem
-size.minheight=22
+size.minheight=32
 text.normal.color=#000000c8
 text.focus.color=white
 text.margin.top=1
 text.margin.bottom=1
-text.margin.left=15
-text.margin.right=5
-frame.top=3
-frame.bottom=3
-frame.left=3
-frame.right=3
+text.margin.left=4
+text.margin.right=4
+frame.top=2
+frame.bottom=2
+frame.left=2
+frame.right=2
 frame.expansion=0
 
 [MenuBar]
@@ -396,8 +403,8 @@ frame.expansion=0
 inherits=PanelButtonCommand
 frame=false
 interior.element=titlebar
-indicator.size=12
 indicator.element=mdi
+indicator.size=16
 text.normal.color=#787878
 text.focus.color=black
 text.bold=true
@@ -413,10 +420,10 @@ indicator.element=carrow
 
 [Menu]
 inherits=PanelButtonCommand
-frame.top=1
-frame.bottom=1
-frame.left=1
-frame.right=1
+frame.top=0
+frame.bottom=0
+frame.left=0
+frame.right=0
 frame.element=menu
 interior.element=menu
 size.minheight=22
@@ -440,7 +447,7 @@ inherits=GenericFrame
 frame=true
 frame.element=tabBarFrame
 interior=false
-frame.top=4
+frame.top=16
 frame.bottom=4
 frame.left=4
 frame.right=4
