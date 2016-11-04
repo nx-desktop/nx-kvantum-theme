@@ -12,7 +12,7 @@ mirror_doc_tabs=false
 joined_inactive_tabs=true
 no_active_tab_separator=true
 
-group_toolbar_buttons=false
+group_toolbar_buttons=true
 spread_progressbar=true
 
 composite=true
@@ -132,10 +132,10 @@ text.shadow=0
 text.margin=4
 text.iconspacing=4
 indicator.element=arrow
-text.margin.top=4
-text.margin.bottom=4
-text.margin.left=6
-text.margin.right=6
+text.margin.top=2
+text.margin.bottom=2
+text.margin.left=2
+text.margin.right=2
 frame.expansion=12
 
 [PanelButtonTool]
@@ -420,10 +420,10 @@ indicator.element=carrow
 
 [Menu]
 inherits=PanelButtonCommand
-frame.top=0
-frame.bottom=0
-frame.left=0
-frame.right=0
+frame.top=2
+frame.bottom=2
+frame.left=2
+frame.right=2
 frame.element=menu
 interior.element=menu
 size.minheight=22
