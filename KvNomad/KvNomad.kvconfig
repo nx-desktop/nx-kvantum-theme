@@ -426,18 +426,17 @@ text.press.color=#000000c8
 indicator.element=carrow
 
 [Menu]
-inherits=PanelButtonCommand
-frame.top=2
-frame.bottom=2
-frame.left=2
-frame.right=2
+frame=true
 frame.element=menu
+frame.top=3
+frame.bottom=3
+frame.left=3
+frame.right=3
+interior=true
 interior.element=menu
 size.minheight=22
 size.minwidth=22
 text.normal.color=#000000c8
-text.shadow=false
-frame.expansion=0
 
 [GroupBox]
 frame=true
@@ -466,17 +465,14 @@ frame.left=4
 frame.right=4
 
 [ToolTip]
-inherits=GenericFrame
-frame.top=3
-frame.bottom=3
-frame.left=3
-frame.right=3
-interior=true
-text.shadow=0
-text.margin=0
-interior.element=tooltip
+frame=true
 frame.element=tooltip
-frame.expansion=0
+frame.top=2
+frame.bottom=2
+frame.left=2
+frame.right=2
+interior=true
+interior.element=tooltip
 
 [StatusBar]
 inherits=GenericFrame
