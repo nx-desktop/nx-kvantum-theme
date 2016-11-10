@@ -434,9 +434,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.627418"
-     inkscape:cx="533.62216"
-     inkscape:cy="671.75761"
+     inkscape:zoom="2.8284273"
+     inkscape:cx="563.24808"
+     inkscape:cy="586.46299"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -5163,7 +5163,7 @@
        transform="matrix(0,1,-1,0,0,0)" />
     <g
        id="tabframe-normal-top-leftjunct"
-       transform="translate(-22,-222)">
+       transform="translate(-8,-224)">
       <path
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
@@ -5179,7 +5179,7 @@
     </g>
     <g
        id="tabframe-normal-top-rightjunct"
-       transform="translate(-14,-224)">
+       transform="translate(0,-226)">
       <path
          d="m 345,329.36216 8,0 0,8 -8,0 z"
          id="path5722"
@@ -5195,7 +5195,7 @@
     </g>
     <g
        id="tabframe-normal-right-leftjunct"
-       transform="matrix(2,0,0,2,-367,-555.36218)">
+       transform="matrix(2,0,0,2,-353,-557.36218)">
       <path
          d="m 345,334.36216 4,0 0,4 -4,0 z"
          id="path5728"
@@ -5210,7 +5210,7 @@
     </g>
     <g
        id="tabframe-normal-right-rightjunct"
-       transform="matrix(2,0,0,2,-367,-555.36222)">
+       transform="matrix(2,0,0,2,-353,-557.36222)">
       <path
          d="m 349,338.3622 4,0 0,-4 -4,0 z"
          id="path5715"
@@ -5225,7 +5225,7 @@
     </g>
     <g
        id="tabframe-normal-left-leftjunct"
-       transform="matrix(2,0,0,2,-367,-557.3622)">
+       transform="matrix(2,0,0,2,-353,-559.3622)">
       <path
          d="m 349,343.3622 -4,0 0,-4 4,0 z"
          id="path5736"
@@ -5240,7 +5240,7 @@
     </g>
     <g
        id="tabframe-normal-left-rightjunct"
-       transform="matrix(2,0,0,2,-367,-557.36216)">
+       transform="matrix(2,0,0,2,-353,-559.36216)">
       <path
          d="m 353,339.36216 -4,0 0,4 4,0 z"
          id="path5743"
@@ -5255,7 +5255,7 @@
     </g>
     <g
        id="tabframe-normal-bottom-leftjunct"
-       transform="matrix(2,0,0,2,-367,-557.3622)">
+       transform="matrix(2,0,0,2,-353,-559.3622)">
       <path
          d="m 349,347.3622 -4,0 0,-4 4,0 z"
          id="path5752"
@@ -5270,7 +5270,7 @@
     </g>
     <g
        id="tabframe-normal-bottom-rightjunct"
-       transform="matrix(2,0,0,2,-367,-557.3622)">
+       transform="matrix(2,0,0,2,-353,-559.3622)">
       <path
          d="m 349,347.3622 4,0 0,-4 -4,0 z"
          id="path5760"
