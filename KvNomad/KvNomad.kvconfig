@@ -59,7 +59,10 @@ combo_as_lineedit=true
 
 animate_states=true
 button_contents_shift=false
-combo_menu=true
+
+#For proper dropdown comboboxes use false
+combo_menu=false
+
 groupbox_top_label=true
 
 inline_spin_indicators=true
@@ -119,6 +122,8 @@ single_top_toolbar=true
 
 tint_on_mouseover=0
 transparent_pcmanfm_view=false
+blur_translucent=false
+no_selection_tint=false
 
 [PanelButtonCommand]
 frame=true
