@@ -1,2 +1,2 @@
 # nomad-kvantum-theme
-Nomad Theme using the Kvantum Theme Engine.
+Minimal, transparent theme using the Kvantum Theme Engine.
