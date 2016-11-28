@@ -81,7 +81,7 @@ window.color=#f5f5f5
 #View bg color
 base.color=#ffffff4d
 
-alt.base.color=#F0F0F0
+alt.base.color=#f5f5f5
 button.color=#f5f5f5
 light.color=white
 mid.light.color=#f0f0f0

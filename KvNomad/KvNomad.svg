@@ -434,9 +434,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16.000001"
-     inkscape:cx="321.16398"
-     inkscape:cy="782.41038"
+     inkscape:zoom="2.56"
+     inkscape:cx="31.484633"
+     inkscape:cy="1541.6232"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -5471,7 +5471,7 @@
     </g>
     <path
        inkscape:connector-curvature="0"
-       id="button-focused-"
+       id="button-focused"
        d="m 78,-861.63782 0,32 32,0 0,-32 -32,0 z"
        style="opacity:1;fill:#f5f5f5;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <g
