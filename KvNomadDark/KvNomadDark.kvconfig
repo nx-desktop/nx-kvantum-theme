@@ -1,6 +1,6 @@
 [%General]
 author=Uri Herrera
-comment=Nomad Kvantum Theme
+comment=Nomad Dark Kvantum Theme
 
 ### Options
 x11drag=menubar_and_primary_toolbar
@@ -76,22 +76,26 @@ tree_branch_line=true
 respect_DE=true
 
 [GeneralColors]
-window.color=#f5f5f5
+window.color=#505659
 
 #View bg color
-base.color=#ffffff4d
+base.color=#50565900
+alt.base.color=#505659
 
-alt.base.color=#f5f5f5
-button.color=#f5f5f5
-light.color=white
-mid.light.color=#f0f0f0
-dark.color=#c8c8c8
-mid.color=#e1e1e1
+button.color=#505659
+
+light.color=#505659
+mid.light.color=#505659
+dark.color=#505659
+mid.color=#505659
+shadow.color=##50565900
+
 highlight.color=#26c6da
-inactive.highlight.color=#f5f5f5
-text.color=#212121
-window.text.color=#212121
-button.text.color=#212121
+inactive.highlight.color=#505659
+
+text.color=white
+window.text.color=white
+button.text.color=white
 disabled.text.color=#757575
 tooltip.text.color=white
 highlight.text.color=white
@@ -135,8 +139,8 @@ frame.right=6
 interior=true
 interior.element=button
 indicator.size=10
-text.normal.color=#000000c8
-text.focus.color=black
+text.normal.color=white
+text.focus.color=white
 text.press.color=white
 text.toggle.color=white
 text.shadow=0
@@ -160,13 +164,13 @@ frame.top=1
 frame.bottom=1
 frame.left=1
 frame.right=1
-text.normal.color=#000000c8
+text.normal.color=white
 
 [DockTitle]
 inherits=PanelButtonCommand
 frame=false
 interior=false
-text.normal.color=#00000096
+text.normal.color=white
 text.focus.color=black
 text.bold=true
 
@@ -177,20 +181,20 @@ interior=true
 frame.left=1
 indicator.element=spin
 indicator.size=22
-text.normal.color=#000000c8
+text.normal.color=white
 
 [RadioButton]
 inherits=PanelButtonCommand
 frame=false
 interior.element=radio
-text.normal.color=#000000c8
+text.normal.color=white
 text.focus.color=black
 
 [CheckBox]
 inherits=PanelButtonCommand
 frame=false
 interior.element=checkbox
-text.normal.color=#000000c8
+text.normal.color=white
 text.focus.color=black
 
 [Focus]
@@ -225,8 +229,8 @@ indicator.size=9
 
 [ToolboxTab]
 inherits=PanelButtonCommand
-text.normal.color=#000000c8
-text.press.color=#00000096
+text.normal.color=white
+text.press.color=white
 text.focus.color=black
 
 [Tab]
@@ -243,10 +247,10 @@ frame.top=6
 frame.bottom=6
 frame.left=6
 frame.right=6
-text.normal.color=#0000007d
-text.focus.color=#000000b4
+text.normal.color=#bdc6c97d
+text.focus.color=#whiteb4
 text.press.color=none
-text.toggle.color=#f5f5f5
+text.toggle.color=white
 
 [TabFrame]
 inherits=PanelButtonCommand
@@ -271,7 +275,7 @@ frame.bottom=3
 frame.left=1
 frame.right=1
 text.bold=true
-text.normal.color=#00000096
+text.normal.color=white
 text.focus.color=#5796e8
 text.toggle.color=black
 frame.expansion=0
@@ -287,7 +291,7 @@ text.margin.top=6
 text.margin.bottom=6
 interior.element=menubar
 frame.element=menubar
-text.normal.color=#000000c8
+text.normal.color=#whitec8
 text.focus.color=black
 frame.bottom=6
 frame.expansion=0
@@ -311,7 +315,7 @@ inherits=PanelButtonCommand
 frame.element=progress
 interior.element=progress
 text.margin=0
-text.normal.color=#000000c8
+text.normal.color=#whitec8
 text.focus.color=black
 text.press.color=black
 text.toggle.color=black
@@ -337,7 +341,7 @@ text.margin.top=2
 text.margin.bottom=2
 text.margin.left=4
 text.margin.right=4
-text.normal.color=#000000c8
+text.normal.color=white
 text.focus.color=black
 text.press.color=white
 text.toggle.color=white
@@ -375,7 +379,7 @@ frame.element=menuitem
 interior.element=menuitem
 indicator.element=menuitem
 size.minheight=32
-text.normal.color=#000000c8
+text.normal.color=white
 text.focus.color=white
 text.margin.top=1
 text.margin.bottom=1
@@ -407,7 +411,7 @@ text.margin.left=4
 text.margin.right=4
 text.margin.top=0
 text.margin.bottom=0
-text.normal.color=#000000b4
+text.normal.color=white
 text.focus.color=white
 frame.expansion=0
 
@@ -427,7 +431,7 @@ frame.expansion=0
 inherits=PanelButtonCommand
 interior.element=combo
 frame.element=combo
-text.press.color=#000000c8
+text.press.color=white
 indicator.element=carrow
 
 [Menu]
@@ -441,7 +445,7 @@ interior=true
 interior.element=menu
 size.minheight=22
 size.minwidth=22
-text.normal.color=#000000c8
+text.normal.color=white
 
 [GroupBox]
 frame=true
