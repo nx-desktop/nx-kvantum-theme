@@ -61,7 +61,7 @@ animate_states=true
 button_contents_shift=false
 
 #For proper dropdown comboboxes use false; or set to true but use 0% opacity in window.color
-combo_menu=true
+combo_menu=false
 
 groupbox_top_label=true
 
@@ -77,7 +77,7 @@ respect_DE=true
 
 [GeneralColors]
 #Set to 0% opacity so that the SVG elemnt is visible, by default the color overlaps the SVG element
-window.color=#f5f5f500
+window.color=#f5f5f5
 
 #View bg color
 base.color=#ffffff4d
