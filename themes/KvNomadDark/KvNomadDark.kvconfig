@@ -37,7 +37,7 @@ menubar_mouse_tracking=true
 toolbutton_style=1
 double_click=false
 
-translucent_windows=true
+translucent_windows=false
 blurring=true
 popup_blurring=true
 
