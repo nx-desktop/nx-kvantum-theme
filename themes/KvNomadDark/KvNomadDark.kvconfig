@@ -38,7 +38,11 @@ toolbutton_style=1
 double_click=false
 
 translucent_windows=false
+<<<<<<< HEAD
 blurring=false
+=======
+blurring=true
+>>>>>>> 8612fe9e5d3da376bca0579bd10b7fdbaffc0a5b
 popup_blurring=true
 
 opaque=kaffeine,kmplayer,subtitlecomposer,kdenlive,smplayer,smplayer2,avidemux,avidemux2_qt4,avidemux3_qt4,kamoso,QtCreator,VirtualBox,trojita,dragon,qupzilla,digikam
