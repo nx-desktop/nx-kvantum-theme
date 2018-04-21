@@ -1,0 +1,25 @@
+kvantum-theme-kvnomad (1.4-1) nxos; urgency=medium
+
+  * Bump version.
+
+ -- Uri Herrera <uri_herrera@nitrux.in>  Sat, 24 Sep 2017 01:21:00 -0500
+ 
+kvantum-theme-kvnomad (1.3-1) nxos; urgency=medium
+
+  * Added dark theme.
+
+ -- Alexis López Zubieta <azubieta90@gmail.com>  Fri, 30 Jun 2017 18:23:45 -0500
+
+kvantum-theme-kvnomad (1.2-1) nxos; urgency=medium
+
+  [ Alexis Lopez Zubieta ]
+  * [FIX] Typo in package name, "kavantum-theme-kvnomad" now on "kvantum-theme-kvnomad"
+
+ -- Alexis Lopez Zubieta <azubieta90@gmail.com>  Tue, 04 Apr 2017 05:32:35 +0000
+
+kvantum-theme-kvnomad (1.0-1) nxos; urgency=medium
+
+  [ Alexis Lopez Zubieta ]
+  * Initial release
+
+ -- Alexis Lopez Zubieta <azubieta90@gmail.com>  Fri, 31 Mar 2017 19:19:00 +0000

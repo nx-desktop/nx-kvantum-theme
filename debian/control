@@ -1,0 +1,13 @@
+Source: kvantum-theme-kvnomad
+Section: unknown
+Priority: optional
+Maintainer: Alexis Lopez Zubieta <azubieta90@gmail.com>
+Build-Depends: debhelper (>=9)
+Standards-Version: 3.9.6
+Vcs-Git: https://github.com/nomad-shell/nomad-kvantum-theme.git
+
+Package: kvantum-theme-kvnomad
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, kvantum
+Description: KvNomad theme
+ Kvantum theme for Nomad Shell
