@@ -19,7 +19,7 @@ composite=true
 
 menu_shadow_depth=5
 tooltip_shadow_depth=6
-splitter_width=1
+splitter_width=8
 
 scroll_width=12
 scroll_arrows=true
@@ -48,7 +48,8 @@ spin_button_width=32
 
 fill_rubberband=true
 
-merge_menubar_with_toolbar=true
+merge_menubar_with_toolbar=false
+toolbar_item_spacing=1
 
 small_icon_size=16
 large_icon_size=32
@@ -70,7 +71,7 @@ inline_spin_indicators=true
 layout_spacing=6
 layout_margin=8
 scrollbar_in_view=true
-submenu_overlap=4
+submenu_overlap=5
 tooltip_delay=-1
 tree_branch_line=true
 respect_DE=true
@@ -80,7 +81,7 @@ respect_DE=true
 window.color=#f5f5f5
 
 #View bg color
-base.color=#ffffff4d
+base.color=#ffffff
 
 alt.base.color=#f5f5f5
 button.color=#f5f5f5
@@ -89,7 +90,7 @@ mid.light.color=#f0f0f0
 dark.color=#c8c8c8
 mid.color=#e1e1e1
 highlight.color=#26c6da
-inactive.highlight.color=#f5f5f5
+inactive.highlight.color=#22b6c6
 text.color=#212121
 window.text.color=#212121
 button.text.color=#212121
@@ -128,11 +129,12 @@ no_selection_tint=false
 
 [PanelButtonCommand]
 frame=true
-frame.element=button
-frame.top=6
-frame.bottom=6
-frame.left=6
-frame.right=6
+frame.element=nbutton
+frame.expandedElement=button
+frame.top=3
+frame.bottom=3
+frame.left=3
+frame.right=3
 interior=true
 interior.element=button
 indicator.size=10
@@ -207,12 +209,9 @@ frame.right=6
 interior=true
 interior.element=common
 text.margin=4
-frame.expansion=12
 
 [LineEdit]
 inherits=PanelButtonCommand
-frame.element=lineedit
-interior.element=lineedit
 text.margin.left=1
 text.margin.right=1
 
@@ -239,7 +238,7 @@ text.margin.top=4
 text.margin.bottom=0
 frame.element=tab
 indicator.element=tab
-indicator.size=18
+indicator.size=14
 frame.top=6
 frame.bottom=6
 frame.left=6
@@ -275,6 +274,7 @@ text.bold=true
 text.normal.color=#00000096
 text.focus.color=#5796e8
 text.toggle.color=black
+indicator.element=harrow
 frame.expansion=0
 
 [SizeGrip]
@@ -290,7 +290,10 @@ interior.element=menubar
 frame.element=menubar
 text.normal.color=#000000c8
 text.focus.color=black
+frame.top=2
 frame.bottom=6
+frame.right=2
+frame.left=2
 frame.expansion=0
 
 [Slider]
@@ -317,7 +320,6 @@ text.focus.color=black
 text.press.color=black
 text.toggle.color=black
 text.bold=false
-frame.expansion=0
 
 [ProgressbarContents]
 inherits=PanelButtonCommand
@@ -330,10 +332,10 @@ inherits=PanelButtonCommand
 text.margin=0
 frame.element=itemview
 interior.element=itemview
-frame.top=6
-frame.bottom=6
-frame.left=6
-frame.right=6
+frame.top=3
+frame.bottom=3
+frame.left=3
+frame.right=3
 text.margin.top=2
 text.margin.bottom=2
 text.margin.left=4
@@ -349,7 +351,7 @@ indicator.size=48
 
 [Scrollbar]
 inherits=PanelButtonCommand
-indicator.element=arrow
+indicator.element=sarrow
 indicator.size=22
 
 [ScrollbarSlider]
@@ -390,9 +392,12 @@ frame.expansion=0
 
 [MenuBar]
 inherits=PanelButtonCommand
-frame.element=none
-interior.element=none
-frame.bottom=0
+frame.element=menubar
+interior.element=menubar
+frame.top=2
+frame.bottom=1
+frame.right=2
+frame.left=2
 frame.expansion=0
 
 [MenuBarItem]
@@ -426,9 +431,6 @@ frame.expansion=0
 
 [ComboBox]
 inherits=PanelButtonCommand
-interior.element=combo
-frame.element=combo
-text.press.color=#000000c8
 indicator.element=carrow
 
 [Menu]
