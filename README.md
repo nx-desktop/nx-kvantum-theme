@@ -5,7 +5,7 @@
 Minimal, transparent theme using the Kvantum Theme Engine.
 
 # Installing
-- Extract theme to `~/.config/Kvantum` or `/usr/share/sddm/Kvantum/`.
+- Extract theme to `~/.config/Kvantum` or `/usr/share/Kvantum/`.
 
 # Issues
 If you find problems with the contents of this repository please create an issue.
