@@ -1,4 +1,4 @@
-# Nomad Kvantum Theme [![Build Status](https://travis-ci.org/nomad-desktop/nomad-kvantum-theme.svg?branch=master)](https://travis-ci.org/nomad-desktop/nomad-kvantum-theme)
+# NX Kvantum Theme [![Build Status](https://travis-ci.org/nomad-desktop/nomad-kvantum-theme.svg?branch=master)](https://travis-ci.org/nomad-desktop/nomad-kvantum-theme)
 
 ![](https://i.imgur.com/CogXqrM.png)
 
