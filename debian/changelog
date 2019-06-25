@@ -1,3 +1,9 @@
+kvantum-theme-kvnitrux (1.5.2) bionic; urgency=medium
+
+  * Change name of the package.
+
+ -- Uri Herrera <uri_herrera@nitrux.in>  Tue, 25 Jun 2019 18:16:00 -0500
+
 kvantum-theme-kvnomad (1.5.1) bionic; urgency=medium
 
   * Enable transparency by default.

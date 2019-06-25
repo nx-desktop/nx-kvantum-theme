@@ -1,13 +1,12 @@
-Source: kvantum-theme-kvnomad
+Source: kvantum-theme-kvnitrux
 Section: kde
 Priority: optional
-Maintainer: Alexis Lopez Zubieta <azubieta90@gmail.com>
+Maintainer: Uri Herrera <uri_herrera@nxos.org>
 Build-Depends: debhelper (>=9)
 Standards-Version: 3.9.6
-Vcs-Git: https://github.com/nomad-shell/nomad-kvantum-theme.git
 
-Package: kvantum-theme-kvnomad
+Package: kvantum-theme-kvnitrux
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}, kvantum
-Description: KvNomad theme
- Kvantum theme for Nomad Shell
+Description: Nitrux theme for Kvantum
+ Kvantum theme for Nitrux.
