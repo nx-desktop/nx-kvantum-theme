@@ -1,4 +1,4 @@
-kvantum-theme-kvnomad (1.5.1) nxos; urgency=medium
+kvantum-theme-kvnomad (1.5.1) bionic; urgency=medium
 
   * Enable transparency by default.
 

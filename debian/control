@@ -1,5 +1,5 @@
 Source: kvantum-theme-kvnomad
-Section: unknown
+Section: kde
 Priority: optional
 Maintainer: Alexis Lopez Zubieta <azubieta90@gmail.com>
 Build-Depends: debhelper (>=9)
