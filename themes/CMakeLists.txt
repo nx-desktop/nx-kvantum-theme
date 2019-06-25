@@ -1,2 +1,0 @@
-install(DIRECTORY KvNomad DESTINATION ${CMAKE_INSTALL_PREFIX}/share/Kvantum)
-install(DIRECTORY KvNomadDark DESTINATION ${CMAKE_INSTALL_PREFIX}/share/Kvantum)
