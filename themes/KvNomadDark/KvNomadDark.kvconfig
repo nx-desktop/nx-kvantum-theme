@@ -1,6 +1,6 @@
 [%General]
 author=Uri Herrera
-comment=Nomad Dark Kvantum Theme
+comment=Nx Dark Kvantum Theme
 
 ### Options
 x11drag=menubar_and_primary_toolbar
@@ -37,7 +37,7 @@ menubar_mouse_tracking=true
 toolbutton_style=1
 double_click=false
 
-translucent_windows=false
+translucent_windows=true
 blurring=true
 popup_blurring=true
 
@@ -74,6 +74,15 @@ submenu_overlap=5
 tooltip_delay=-1
 tree_branch_line=true
 respect_DE=true
+hide_combo_checkboxes=false
+no_inactiveness=false
+no_window_pattern=false
+reduce_menu_opacity=0
+reduce_window_opacity=0
+scrollable_menu=false
+submenu_delay=250
+transient_groove=false
+transient_scrollbar=false
 
 [GeneralColors]
 #Set to 0% opacity so that the SVG elemnt is visible, by default the color overlaps the SVG element
@@ -124,8 +133,10 @@ single_top_toolbar=true
 
 tint_on_mouseover=0
 transparent_pcmanfm_view=false
-blur_translucent=false
+blur_translucent=true
 no_selection_tint=false
+middle_click_scroll=false
+opaque_colors=false
 
 [PanelButtonCommand]
 frame=true
@@ -487,4 +498,3 @@ interior=false
 [Window]
 interior=true
 interior.element=window
-

@@ -1,3 +1,9 @@
+kvantum-theme-kvnomad (1.5.1) nxos; urgency=medium
+
+  * Enable transparency by default.
+
+ -- Uri Herrera <uri_herrera@nitrux.in>  Tue, 25 Jun 2019 02:18:00 -0500
+
 kvantum-theme-kvnomad (1.5.0) nxos; urgency=medium
 
   * Compatible with Kvantum 0.10.7.
