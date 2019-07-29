@@ -1,7 +1,5 @@
 # NX Kvantum Theme [![Build Status](https://travis-ci.org/nx-desktop/nx-kvantum-theme.svg?branch=master)](https://travis-ci.org/nx-desktop/nx-kvantum-theme)
 
-![](https://i.imgur.com/CogXqrM.png)
-
 Minimal, transparent theme using the Kvantum Theme Engine.
 
 # Installing
