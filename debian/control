@@ -7,6 +7,6 @@ Standards-Version: 3.9.6
 
 Package: kvantum-theme-kvnitrux
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}, kvantum
+Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: Nitrux theme for Kvantum
  Kvantum theme for Nitrux.
