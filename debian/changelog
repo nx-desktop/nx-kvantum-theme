@@ -1,3 +1,9 @@
+kvantum-theme-kvnitrux (1.5.4) bionic; urgency=medium
+
+  * Add calamares to opaque list.
+
+ -- Uri Herrera <uri_herrera@nitrux.in>  Mon, 23 Dec 2019 17:58:00 -0500
+
 kvantum-theme-kvnitrux (1.5.3) bionic; urgency=medium
 
   * Remove dependency.
