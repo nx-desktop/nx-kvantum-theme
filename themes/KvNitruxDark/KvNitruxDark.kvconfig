@@ -86,17 +86,17 @@ transient_scrollbar=false
 
 [GeneralColors]
 #Set to 0% opacity so that the SVG elemnt is visible, by default the color overlaps the SVG element
-window.color=#505659
+window.color=#2b2c31
 
 #View bg color. Without transparency it looks weird
-base.color=#50565900
+base.color=#2b2c3100
 
-alt.base.color=#505659
-button.color=#505659
-light.color=#505659
-mid.light.color=#505659
-dark.color=#505659
-mid.color=#505659
+alt.base.color=#2b2c31
+button.color=#2b2c31
+light.color=#2b2c31
+mid.light.color=#2b2c31
+dark.color=#2b2c31
+mid.color=#2b2c31
 
 highlight.color=#26c6da
 inactive.highlight.color=#22b6c6

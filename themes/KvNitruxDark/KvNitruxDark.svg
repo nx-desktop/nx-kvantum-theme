@@ -16,7 +16,7 @@
    id="svg5049"
    version="1.1"
    inkscape:version="0.92.3 (unknown)"
-   sodipodi:docname="KvNitruxDarkMod.svg">
+   sodipodi:docname="KvNitruxDark.svg">
   <defs
      id="defs5051">
     <linearGradient
@@ -434,12 +434,12 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="13.506944"
-     inkscape:cx="65.895252"
-     inkscape:cy="647.50137"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="195.51776"
+     inkscape:cy="844.32568"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="true"
+     showgrid="false"
      units="mm"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -7301,7 +7301,7 @@
          id="rect6069"
          style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <rect
-         style="opacity:0.9;fill:#505659;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:0.9;fill:#2b2c31;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect6071"
          width="32"
          height="32"

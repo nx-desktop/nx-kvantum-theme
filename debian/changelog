@@ -1,34 +1,40 @@
-kvantum-theme-kvnitrux (1.5.6) bionic; urgency=medium
+kvantum-theme-kvnitrux (1.5.7) nitrux; urgency=medium
+
+  * Change color of window background.
+
+ -- Uri Herrera <uri_herrera@nitrux.in>  Wed, 27 May 2020 19:01:00 -0500
+
+kvantum-theme-kvnitrux (1.5.6) nitrux; urgency=medium
 
   * Rounder corners.
 
  -- Uri Herrera <uri_herrera@nitrux.in>  Tue, 25 Feb 2019 04:35:00 -0500
 
-kvantum-theme-kvnitrux (1.5.5) bionic; urgency=medium
+kvantum-theme-kvnitrux (1.5.5) nitrux; urgency=medium
 
   * Change tab close icon to resemble window decoration.
 
  -- Uri Herrera <uri_herrera@nitrux.in>  Tue, 11 Dec 2019 17:44:00 -0500
 
-kvantum-theme-kvnitrux (1.5.4) bionic; urgency=medium
+kvantum-theme-kvnitrux (1.5.4) nitrux; urgency=medium
 
   * Add calamares to opaque list.
 
  -- Uri Herrera <uri_herrera@nitrux.in>  Mon, 23 Dec 2019 17:58:00 -0500
 
-kvantum-theme-kvnitrux (1.5.3) bionic; urgency=medium
+kvantum-theme-kvnitrux (1.5.3) nitrux; urgency=medium
 
   * Remove dependency.
 
  -- Uri Herrera <uri_herrera@nitrux.in>  Sat, 14 Dec 2019 17:56:00 -0500
 
-kvantum-theme-kvnitrux (1.5.2) bionic; urgency=medium
+kvantum-theme-kvnitrux (1.5.2) nitrux; urgency=medium
 
   * Change name of the package.
 
  -- Uri Herrera <uri_herrera@nitrux.in>  Tue, 25 Jun 2019 18:16:00 -0500
 
-kvantum-theme-kvnomad (1.5.1) bionic; urgency=medium
+kvantum-theme-kvnomad (1.5.1) nitrux; urgency=medium
 
   * Enable transparency by default.
 
