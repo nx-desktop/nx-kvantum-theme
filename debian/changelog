@@ -1,4 +1,10 @@
-kvantum-theme-kvnitrux (1.5.7) nitrux; urgency=medium
+kvantum-theme-kvnitrux (1.5.9) nitrux; urgency=medium
+
+  * Add system settings to opaque apps list.
+
+ -- Uri Herrera <uri_herrera@nitrux.in>  Thu, 28 May 2020 16:56:00 -0500
+
+kvantum-theme-kvnitrux (1.5.8) nitrux; urgency=medium
 
   * Fix wrong base bg color.
 

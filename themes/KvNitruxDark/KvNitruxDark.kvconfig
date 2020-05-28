@@ -41,7 +41,7 @@ translucent_windows=true
 blurring=true
 popup_blurring=true
 
-opaque=kaffeine,kmplayer,subtitlecomposer,kdenlive,smplayer,smplayer2,avidemux,avidemux2_qt4,avidemux3_qt4,kamoso,QtCreator,VirtualBox,trojita,dragon,qupzilla,digikam,calamares
+opaque=kaffeine,kmplayer,subtitlecomposer,kdenlive,smplayer,smplayer2,avidemux,avidemux2_qt4,avidemux3_qt4,kamoso,QtCreator,VirtualBox,trojita,dragon,qupzilla,digikam,calamares,systemsettings5,systemsettings
 
 vertical_spin_indicators=false
 spin_button_width=32
