@@ -1,5 +1,11 @@
 kvantum-theme-kvnitrux (1.5.7) nitrux; urgency=medium
 
+  * Fix wrong base bg color.
+
+ -- Uri Herrera <uri_herrera@nitrux.in>  Wed, 27 May 2020 22:26:00 -0500
+ 
+kvantum-theme-kvnitrux (1.5.7) nitrux; urgency=medium
+
   * Change color of window background.
 
  -- Uri Herrera <uri_herrera@nitrux.in>  Wed, 27 May 2020 19:01:00 -0500

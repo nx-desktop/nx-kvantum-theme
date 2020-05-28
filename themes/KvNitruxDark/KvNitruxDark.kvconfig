@@ -89,7 +89,7 @@ transient_scrollbar=false
 window.color=#2b2c31
 
 #View bg color. Without transparency it looks weird
-base.color=#2b2c3100
+base.color=#50565900
 
 alt.base.color=#2b2c31
 button.color=#2b2c31
