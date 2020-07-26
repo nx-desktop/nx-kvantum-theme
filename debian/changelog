@@ -1,3 +1,9 @@
+kvantum-theme-kvnitrux (1.6.0) nitrux; urgency=medium
+
+  * Disable transparency if liquidshell is present.
+
+ -- Uri Herrera <uri_herrera@nitrux.in>  Sun, 26 Jul 2020 04:41:00 -0500
+
 kvantum-theme-kvnitrux (1.5.9) nitrux; urgency=medium
 
   * Add system settings to opaque apps list.
