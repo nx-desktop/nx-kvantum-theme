@@ -83,6 +83,12 @@ scrollable_menu=false
 submenu_delay=250
 transient_groove=false
 transient_scrollbar=false
+click_behavior=0
+contrast=1.00
+dialog_button_layout=0
+intensity=1.00
+saturation=1.00
+shadowless_popup=false
 
 [GeneralColors]
 #Set to 0% opacity so that the SVG elemnt is visible, by default the color overlaps the SVG element
@@ -137,6 +143,8 @@ blur_translucent=true
 no_selection_tint=false
 middle_click_scroll=false
 opaque_colors=false
+kinetic_scrolling=false
+scroll_jump_workaround=false
 
 [PanelButtonCommand]
 frame=true
@@ -149,7 +157,7 @@ frame.right=6
 interior=true
 interior.element=button
 indicator.size=10
-text.normal.color=whitec8
+text.normal.color=white
 text.focus.color=white
 text.press.color=white
 text.toggle.color=white
@@ -174,14 +182,14 @@ frame.top=1
 frame.bottom=1
 frame.left=1
 frame.right=1
-text.normal.color=whitec8
+text.normal.color=white
 
 [DockTitle]
 inherits=PanelButtonCommand
 frame=false
 interior=false
-text.normal.color=white96
-text.focus.color=black
+text.normal.color=white
+text.focus.color=white
 text.bold=true
 
 [IndicatorSpinBox]
@@ -191,24 +199,25 @@ interior=true
 frame.left=1
 indicator.element=spin
 indicator.size=22
-text.normal.color=whitec8
+text.normal.color=white
 
 [RadioButton]
 inherits=PanelButtonCommand
 frame=false
 interior.element=radio
-text.normal.color=whitec8
-text.focus.color=black
+text.normal.color=white
+text.focus.color=white
 
 [CheckBox]
 inherits=PanelButtonCommand
 frame=false
 interior.element=checkbox
-text.normal.color=whitec8
-text.focus.color=black
+text.normal.color=white
+text.focus.color=white
 
 [Focus]
 inherits=PanelButtonCommand
+frame=true
 
 [GenericFrame]
 frame=true
@@ -239,9 +248,9 @@ indicator.size=9
 
 [ToolboxTab]
 inherits=PanelButtonCommand
-text.normal.color=whitec8
-text.press.color=white96
-text.focus.color=black
+text.normal.color=white
+text.press.color=white
+text.focus.color=white
 
 [Tab]
 inherits=PanelButtonCommand
@@ -257,8 +266,8 @@ frame.top=6
 frame.bottom=6
 frame.left=6
 frame.right=6
-text.normal.color=#bdc6c97d
-text.focus.color=#whiteb4
+text.normal.color=#bdc6c97
+text.focus.color=white
 text.press.color=none
 text.toggle.color=white
 
@@ -285,9 +294,9 @@ frame.bottom=3
 frame.left=1
 frame.right=1
 text.bold=true
-text.normal.color=white96
+text.normal.color=white
 text.focus.color=#5796e8
-text.toggle.color=black
+text.toggle.color=#26C6DA
 frame.expansion=0
 
 [SizeGrip]
@@ -301,8 +310,8 @@ text.margin.top=6
 text.margin.bottom=6
 interior.element=menubar
 frame.element=menubar
-text.normal.color=#whitec8
-text.focus.color=black
+text.normal.color=white
+text.focus.color=#26C6DA
 frame.bottom=6
 frame.expansion=0
 
@@ -325,10 +334,10 @@ inherits=PanelButtonCommand
 frame.element=progress
 interior.element=progress
 text.margin=0
-text.normal.color=#whitec8
-text.focus.color=black
-text.press.color=black
-text.toggle.color=black
+text.normal.color=white
+text.focus.color=white
+text.press.color=white
+text.toggle.color=white
 text.bold=false
 frame.expansion=0
 
@@ -351,8 +360,8 @@ text.margin.top=2
 text.margin.bottom=2
 text.margin.left=4
 text.margin.right=4
-text.normal.color=whitec8
-text.focus.color=black
+text.normal.color=white
+text.focus.color=white
 text.press.color=white
 text.toggle.color=white
 frame.expansion=0
@@ -389,7 +398,7 @@ frame.element=menuitem
 interior.element=menuitem
 indicator.element=menuitem
 size.minheight=32
-text.normal.color=whitec8
+text.normal.color=white
 text.focus.color=white
 text.margin.top=1
 text.margin.bottom=1
@@ -421,7 +430,7 @@ text.margin.left=4
 text.margin.right=4
 text.margin.top=0
 text.margin.bottom=0
-text.normal.color=whiteb4
+text.normal.color=white
 text.focus.color=white
 frame.expansion=0
 
@@ -432,7 +441,7 @@ interior.element=titlebar
 indicator.element=mdi
 indicator.size=16
 text.normal.color=#787878
-text.focus.color=black
+text.focus.color=white
 text.bold=true
 text.italic=true
 frame.expansion=0
@@ -452,7 +461,7 @@ interior=true
 interior.element=menu
 size.minheight=22
 size.minwidth=22
-text.normal.color=whitec8
+text.normal.color=white
 
 [GroupBox]
 frame=true

@@ -1,3 +1,9 @@
+kvantum-theme-kvnitrux (1.6.1) nitrux; urgency=medium
+
+  * Update dark theme configuration.
+
+ -- Uri Herrera <uri_herrera@nitrux.in>  Wed, 29 Jul 2020 05:39:00 -0500
+
 kvantum-theme-kvnitrux (1.6.0) nitrux; urgency=medium
 
   * Disable transparency if liquidshell is present.
