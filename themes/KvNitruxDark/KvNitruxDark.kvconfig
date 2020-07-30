@@ -37,7 +37,7 @@ menubar_mouse_tracking=true
 toolbutton_style=1
 double_click=false
 
-translucent_windows=true
+translucent_windows=false
 blurring=true
 popup_blurring=true
 
@@ -95,7 +95,7 @@ shadowless_popup=false
 window.color=#2b2c31
 
 #View bg color. Without transparency it looks weird
-base.color=#505659
+base.color=#2b2c31
 
 alt.base.color=#2b2c31
 button.color=#2b2c31

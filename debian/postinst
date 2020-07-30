@@ -1,16 +1,3 @@
 #! /bin/bash
-
-test -f /usr/bin/liquidshell && {
-  sed -i \
-    -e 's/translucent_windows=true/translucent_windows=false/' \
-    /usr/share/Kvantum/KvNitruxDark/KvNitruxDark.kvconfig
-
-  sed -i \
-    -e 's/translucent_windows=true/translucent_windows=false/'\
-    /usr/share/Kvantum/KvNitrux/KvNitrux.kvconfig
-
-	} || {
-    echo "lqs not found. Nothing to do."
-	}
   
-  exit 0
+exit 0
