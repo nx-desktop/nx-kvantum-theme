@@ -1,8 +1,14 @@
+kvantum-theme-kvnitrux (1.6.3) nitrux; urgency=medium
+
+  * Make postinst script exit when liquidshell is not found.
+
+ -- Uri Herrera <uri_herrera@nitrux.in>  Thu, 30 Jul 2020 16:12:00 -0500
+
 kvantum-theme-kvnitrux (1.6.2) nitrux; urgency=medium
 
   * Remove alpha value from color, it seems that it was deprecated.
 
- -- Uri Herrera <uri_herrera@nitrux.in>  Thu, 29 Jul 2020 15:33:00 -0500
+ -- Uri Herrera <uri_herrera@nitrux.in>  Thu, 30 Jul 2020 15:33:00 -0500
 
 kvantum-theme-kvnitrux (1.6.1) nitrux; urgency=medium
 

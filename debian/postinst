@@ -10,7 +10,6 @@ test -f /usr/bin/liquidshell && {
     /usr/share/Kvantum/KvNitrux/KvNitrux.kvconfig
 
 	} || {
-  continue
+    exit
 	}
-
-exit
+  
