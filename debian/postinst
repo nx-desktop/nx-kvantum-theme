@@ -10,6 +10,8 @@ test -f /usr/bin/liquidshell && {
     /usr/share/Kvantum/KvNitrux/KvNitrux.kvconfig
 
 	} || {
-    exit
+    echo "Nothing to do."
 	}
+  
+  exit 0
   
