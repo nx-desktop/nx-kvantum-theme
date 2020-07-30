@@ -10,8 +10,7 @@ test -f /usr/bin/liquidshell && {
     /usr/share/Kvantum/KvNitrux/KvNitrux.kvconfig
 
 	} || {
-    echo "Nothing to do."
+    echo "lqs not found. Nothing to do."
 	}
   
   exit 0
-  
