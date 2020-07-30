@@ -1,8 +1,14 @@
+kvantum-theme-kvnitrux (1.6.2) nitrux; urgency=medium
+
+  * Remove alpha value from color, it seems that it was deprecated.
+
+ -- Uri Herrera <uri_herrera@nitrux.in>  Thu, 29 Jul 2020 15:33:00 -0500
+
 kvantum-theme-kvnitrux (1.6.1) nitrux; urgency=medium
 
   * Update dark theme configuration.
 
- -- Uri Herrera <uri_herrera@nitrux.in>  Wed, 29 Jul 2020 05:39:00 -0500
+ -- Uri Herrera <uri_herrera@nitrux.in>  Wed, 29 Jul 2020 17:39:00 -0500
 
 kvantum-theme-kvnitrux (1.6.0) nitrux; urgency=medium
 
